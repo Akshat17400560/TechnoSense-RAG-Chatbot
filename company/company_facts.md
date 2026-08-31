@@ -2,14 +2,7 @@
 document_id: technosense_company_facts
 title: TechnoSense Company Facts
 category: company
-subcategory: company_information
-content_type: company_facts
 company: TechnoSense NextGen Solutions Pvt Limited
-source_type: company_website
-source_pages:
-  - https://technosense.in/
-  - https://technosense.in/about-us.html
-last_reviewed: 2026-08-29
 ---
 
 # TechnoSense Company Facts
@@ -210,7 +203,6 @@ The company's stated promise is to combine technology expertise with execution t
 The homepage displays the following performance indicators:
 
 | Metric | Website-Stated Value |
-|---|---:|
 | Projects Completed | 100+ |
 | Customers | 50+ |
 | Experience | 15+ years |
@@ -246,7 +238,6 @@ About Us:
 https://technosense.in/about-us.html
 
 Last reviewed: 2026-08-29
----
 
 ## RAG Usage Notes
 

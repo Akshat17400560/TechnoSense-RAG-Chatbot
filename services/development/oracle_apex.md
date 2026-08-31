@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
 document_id: oracle_apex
-title: Oracle APEX Development Services
-category: services
-service_category: development
-service_type: oracle_apex
-company: TechnoSense NextGen Solutions
-parent_document: development_services.md
-source_url: https://technosense.in/oracle-apex.html
-source_type: company_website
+title: Oracle Apex
+category: Development
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Oracle APEX Development Services

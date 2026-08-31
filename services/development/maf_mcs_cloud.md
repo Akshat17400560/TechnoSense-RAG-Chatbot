@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
 document_id: maf_mcs_cloud
-title: MAF & MCS Cloud Services
-category: services
-service_category: development
-service_type: oracle_mobile_and_cloud
-company: TechnoSense NextGen Solutions
-parent_document: development_services.md
-source_url: https://technosense.in/
-source_type: company_website
+title: MAF MCS Cloud
+category: Development
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # MAF & MCS Cloud Services

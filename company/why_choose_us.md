@@ -2,14 +2,7 @@
 document_id: technosense_why_choose_us
 title: Why Choose TechnoSense
 category: company
-subcategory: company_differentiators
-content_type: value_proposition
 company: TechnoSense NextGen Solutions Pvt Limited
-source_type: company_website
-source_pages:
-  - https://technosense.in/
-  - https://technosense.in/about-us.html
-last_reviewed: 2026-08-29
 ---
 
 # Why Choose TechnoSense
@@ -250,7 +243,6 @@ About Us:
 https://technosense.in/about-us.html
 
 Last reviewed: 2026-08-29
----
 
 ## RAG Usage Notes
 

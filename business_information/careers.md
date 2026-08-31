@@ -1,10 +1,10 @@
-# Careers
+---
+document_id: careers
+title: Career Technosense
+category: business_information
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Category
-
-**Category:** Business Information  
-**Topic:** Careers & Employment  
-**Organization:** TechnoSense NextGen Solutions Pvt Limited
 
 ## Overview
 
@@ -14,7 +14,7 @@ According to the company's official Careers page, TechnoSense looks for **passio
 
 TechnoSense also emphasizes continuous learning, an open work culture, and opportunities for professional growth.
 
----
+
 
 # Career Opportunities
 
@@ -31,7 +31,7 @@ The roles explicitly listed on the company's Careers page include:
 - Business Analysts
 - Support & Managed Services Teams
 
----
+
 
 # Software Development Roles
 
@@ -48,7 +48,7 @@ These roles align with TechnoSense's broader Development Services portfolio.
 
 The careers page does not provide individual job descriptions, experience requirements, salary ranges, or currently open vacancies for each development technology.
 
----
+
 
 # Cloud & DevOps
 
@@ -61,7 +61,7 @@ These roles correspond to the company's broader cloud and DevOps service capabil
 
 The Careers page does not specify particular cloud platforms, certifications, seniority levels, or individual job openings for these roles.
 
----
+
 
 # Database Administration
 
@@ -79,7 +79,7 @@ The Careers page does not specify:
 
 Those details should not be inferred.
 
----
+
 
 # Network & Infrastructure
 
@@ -91,7 +91,7 @@ This corresponds with the company's infrastructure-management and network-securi
 
 The published Careers page does not provide detailed job descriptions or specific infrastructure technologies associated with these positions.
 
----
+
 
 # Quality Assurance & Testing
 
@@ -99,7 +99,7 @@ The published Careers page does not provide detailed job descriptions or specifi
 
 The available careers information does not specify particular testing frameworks, tools, methodologies, certifications, or experience requirements.
 
----
+
 
 # Project Management & Business Analysis
 
@@ -112,7 +112,7 @@ These roles support project execution, business requirements, and coordination a
 
 The Careers page does not provide specific responsibilities, qualifications, or experience requirements for these positions.
 
----
+
 
 # Support & Managed Services
 
@@ -124,7 +124,7 @@ This aligns with the company's broader service model, which includes ongoing sup
 
 The careers page does not specify the exact support technologies, shifts, job levels, or operational responsibilities associated with these roles.
 
----
+
 
 # Why Work With TechnoSense?
 
@@ -140,7 +140,7 @@ The company states that employees can access:
 
 The stated objective is to provide opportunities for employees to develop their skills while working on technology projects.
 
----
+
 
 ## 2. Innovative Work Environment
 
@@ -152,7 +152,7 @@ TechnoSense describes its work environment as one that encourages:
 
 The company positions innovation and creative thinking as part of its workplace culture.
 
----
+
 
 ## 3. Global Exposure
 
@@ -164,7 +164,7 @@ TechnoSense states that employees can work with:
 
 The company therefore presents global project exposure as one of the potential aspects of working at TechnoSense.
 
----
+
 
 ## 4. Work-Life Balance
 
@@ -176,7 +176,7 @@ TechnoSense describes its workplace as providing:
 
 The company presents work-life balance as one of the benefits of its working environment.
 
----
+
 
 ## 5. Career Advancement
 
@@ -189,7 +189,7 @@ TechnoSense states that employees have opportunities to:
 
 The company describes career advancement as an important part of its employee proposition.
 
----
+
 
 # Work Environment
 
@@ -209,7 +209,7 @@ Career Advancement
 
 The company describes these elements as part of the experience it aims to provide to its employees.
 
----
+
 
 # Application Process
 
@@ -238,14 +238,13 @@ Career Consideration
 
 This represents the application method published on the Careers page and should not be interpreted as the company's complete internal recruitment process.
 
----
+
 
 # Contact Information for Careers
 
 The Careers page provides the following general contact information:
 
 | Contact Type | Information |
-|---|---|
 | Email | info@technosense.in |
 | Phone | +91-9911191139 |
 | Address | 48, 7th Floor, ETT Tower - 2B-36, Sector 132, Noida |
@@ -254,12 +253,11 @@ The same general contact information is also published on TechnoSense's Contact 
 
 For job applications specifically, the Careers page instructs candidates to send their resume to **info@technosense.in**.
 
----
+
 
 # Career Areas Summary
 
 | Career Area | Roles / Technologies Explicitly Listed |
-|---|---|
 | Software Development | Java, .NET, PHP, Full Stack |
 | Cloud & DevOps | Cloud Engineers, DevOps Engineers |
 | Database | Database Administrators |
@@ -270,7 +268,7 @@ For job applications specifically, the Careers page instructs candidates to send
 
 All of the roles and technologies in this table are based on the company's Careers page.
 
----
+
 
 # Relationship With TechnoSense Services
 
@@ -308,7 +306,7 @@ TechnoSense Careers
 
 This is a conceptual relationship between the company's hiring areas and service portfolio. It should not be interpreted as a one-to-one organizational structure.
 
----
+
 
 # RAG Knowledge Representation
 
@@ -368,7 +366,7 @@ Operations:
 - Career Advancement
 ```
 
----
+
 
 # Supported RAG Queries
 
@@ -400,7 +398,7 @@ This document should enable the RAG system to answer questions such as:
 - What is TechnoSense's work culture like?
 - How do I submit my resume to TechnoSense?
 
----
+
 
 # Important Answer Boundaries
 
@@ -438,7 +436,7 @@ The RAG system must not invent these details.
 
 In particular, the presence of a role in the **"We Hire For"** section should be interpreted as a hiring area identified by TechnoSense, not necessarily as confirmation that there is a current vacancy for that role.
 
----
+
 
 # Source References
 
@@ -453,12 +451,10 @@ The official TechnoSense Careers page is the primary source for:
 - Resume submission instructions
 
 
-
 ## Related Source – TechnoSense Contact Information
 
 The official Contact Us page confirms the company's general contact information, including the published email address, phone number, and Noida office address.
 
----
 
 # Document Scope
 

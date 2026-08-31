@@ -1,11 +1,10 @@
-# Database Version Upgrades
+---
+document_id: database_version_upgrades
+title: Database Version Upgrades
+category: Database
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
-
-**Category:** Database Management  
-**Service:** Version Upgrades  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited  
-**Primary Database Technology:** Oracle Database
 
 ## Overview
 
@@ -57,7 +56,6 @@ The actual implementation sequence depends on the organization's existing databa
 Oracle Database Installation and Version Upgrades address different stages of the database lifecycle.
 
 | Service | Primary Purpose |
-|---|---|
 | Oracle Database Installation | Establish a new Oracle database environment |
 | Version Upgrades | Upgrade an existing database environment |
 | Server Setup & Migration | Set up database servers and support database movement |

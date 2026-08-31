@@ -1,13 +1,10 @@
 ---
-document_type: service_overview
 document_id: development_services
 title: Development Services
-category: services
-service_category: development
-company: TechnoSense NextGen Solutions
-source_url: https://technosense.in/
-source_type: company_website
+category: Development
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
+
 
 # Development Services
 
@@ -230,7 +227,6 @@ TechnoSense's Development Services are intended to help organizations:
 ## Service Selection Guide
 
 | Requirement | Recommended Service Document |
-|---|---|
 | General application development | `development_services.md` |
 | Oracle APEX development | `oracle_apex.md` |
 | Web application development | `web_mobile_application_development.md` |

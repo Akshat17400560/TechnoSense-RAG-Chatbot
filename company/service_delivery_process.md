@@ -2,14 +2,7 @@
 document_id: technosense_service_delivery_process
 title: TechnoSense Service Delivery Process
 category: company
-subcategory: service_delivery
-content_type: service_delivery_process
 company: TechnoSense NextGen Solutions Pvt Limited
-source_type: company_website
-source_pages:
-  - https://technosense.in/
-  - https://technosense.in/about-us.html
-last_reviewed: 2026-08-29
 ---
 
 # TechnoSense Service Delivery Process
@@ -33,7 +26,7 @@ The TechnoSense service delivery approach can be broadly organized into four maj
 
 These stages provide a high-level framework for understanding how TechnoSense can engage with customers throughout a technology initiative.
 
----
+
 
 # 1. Pre-Implementation
 
@@ -90,7 +83,7 @@ Solution design may consider:
 
 The specific solution architecture depends on the customer's requirements and the technology involved.
 
----
+
 
 # 2. Implementation
 
@@ -156,7 +149,7 @@ Deployment activities may include:
 - Infrastructure handover
 - Operational transition
 
----
+
 
 # 3. Maintenance
 
@@ -207,7 +200,7 @@ Depending on the service, monitoring and performance activities can cover:
 - Network environments
 - Security environments
 
----
+
 
 # 4. Support
 
@@ -246,7 +239,7 @@ For certain technology areas, TechnoSense provides managed services that extend 
 
 Managed services can provide ongoing operational assistance for technology environments such as databases and infrastructure.
 
----
+
 
 # Service Delivery by Technology Area
 
@@ -374,7 +367,7 @@ Detailed information is maintained in:
 
 `services/microsoft_365/`
 
----
+
 
 # Customer-Specific Delivery
 
@@ -402,7 +395,7 @@ For resource placement engagements, TechnoSense provides:
 
 This allows customers to select an engagement model based on their project and operational requirements.
 
----
+
 
 # Service Delivery Principles
 
@@ -481,7 +474,7 @@ Website:
 https://technosense.in/
 
 Last reviewed: 2026-08-29
----
+
 
 ## RAG Usage Notes
 

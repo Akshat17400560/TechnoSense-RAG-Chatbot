@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
 document_id: cloud_adoption_strategy
 title: Cloud Adoption Strategy
-category: services
-service_category: cloud
-service_type: strategy_and_consulting
-company: TechnoSense NextGen Solutions
-parent_document: cloud_consulting.md
-source_url: https://technosense.in/cloud-adoption-strategy.html
-source_type: company_website
+category: Cloud
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Cloud Adoption Strategy

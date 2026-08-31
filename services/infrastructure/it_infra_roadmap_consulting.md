@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
 document_id: it_infra_roadmap_consulting
-title: IT & Infrastructure Roadmap Consulting
-category: services
-service_category: infrastructure
-service_type: consulting
-company: TechnoSense NextGen Solutions
-parent_document: infrastructure_management.md
-source_url: https://technosense.in/infrastructure-management.html
-source_type: company_website
+title: IT Infrastructure Roadmap Consulting
+category: Infrastructure
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # IT & Infrastructure Roadmap Consulting

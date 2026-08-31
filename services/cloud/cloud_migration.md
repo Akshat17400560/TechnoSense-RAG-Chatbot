@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
-document_id: cloud_implementation_migration
-title: Cloud Implementation & Migration
-category: services
-service_category: cloud
-service_type: implementation_and_migration
-company: TechnoSense NextGen Solutions
-parent_document: cloud_consulting.md
-source_url: https://technosense.in/implementation-migration.html
-source_type: company_website
+document_id: cloud_migration
+title: Cloud Migration
+category: Cloud
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Cloud Implementation & Migration

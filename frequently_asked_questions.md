@@ -1,9 +1,9 @@
-# Frequently Asked Questions
-
-## Category
-
-**Category:** FAQ  
-**Organization:** TechnoSense NextGen Solutions Pvt Limited
+---
+document_id: frequently_asked_questions
+title: Frequently asked questions
+category: FAQ
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
 ## Overview
 
@@ -11,7 +11,7 @@ This document contains frequently asked questions about TechnoSense, its service
 
 The FAQ is designed as a high-level retrieval layer for common questions. Detailed technical or service-specific questions should be answered using the corresponding dedicated service documents in the TechnoSense RAG knowledge base.
 
----
+
 
 # General Company Questions
 
@@ -19,7 +19,7 @@ The FAQ is designed as a high-level retrieval layer for common questions. Detail
 
 TechnoSense NextGen Solutions Pvt Limited is an IT services and technology solutions company providing services across areas including IT infrastructure, cloud, application development, databases, Microsoft 365, security, resource placement, and enterprise mobility.
 
----
+
 
 ## What services does TechnoSense provide?
 
@@ -51,7 +51,7 @@ TechnoSense provides services across multiple technology areas, including:
 
 The dedicated service documents provide the authoritative detail for each individual offering.
 
----
+
 
 ## Where is TechnoSense located?
 
@@ -61,7 +61,7 @@ TechnoSense's published office address is:
 
 For the most current contact information, use the `business_information/contact_information.md` document.
 
----
+
 
 ## How can I contact TechnoSense?
 
@@ -73,7 +73,7 @@ TechnoSense publishes the following general contact details:
 
 The company also provides a contact form through its official website.
 
----
+
 
 ## What is TechnoSense's official email address?
 
@@ -83,7 +83,7 @@ The general email address published by TechnoSense is:
 
 This address is also provided on the Careers page for resume submissions.
 
----
+
 
 ## What is TechnoSense's phone number?
 
@@ -93,7 +93,7 @@ TechnoSense publishes:
 
 as its general contact phone number.
 
----
+
 
 # Service Questions
 
@@ -107,7 +107,7 @@ For detailed capabilities, retrieve the documents under:
 services/infrastructure/
 ```
 
----
+
 
 ## Does TechnoSense provide cloud services?
 
@@ -124,7 +124,7 @@ Detailed information is available under:
 services/cloud/
 ```
 
----
+
 
 ## Does TechnoSense provide cloud migration services?
 
@@ -138,7 +138,7 @@ For detailed migration capabilities, use:
 services/cloud/cloud_migration.md
 ```
 
----
+
 
 ## Does TechnoSense provide DevOps services?
 
@@ -150,7 +150,7 @@ Detailed DevOps information should be retrieved from:
 services/cloud/devops.md
 ```
 
----
+
 
 ## Does TechnoSense provide application development services?
 
@@ -158,7 +158,7 @@ Yes. TechnoSense provides Development Services, including Web & Mobile Applicati
 
 The Development Services portfolio also includes MAF & MCS Cloud.
 
----
+
 
 ## Does TechnoSense provide Oracle services?
 
@@ -173,7 +173,7 @@ The company's documented Oracle-related services include:
 
 Specific Oracle capabilities should be answered using the relevant service documents.
 
----
+
 
 ## Does TechnoSense provide Oracle APEX services?
 
@@ -185,7 +185,7 @@ For detailed Oracle APEX information, retrieve:
 services/development/oracle_adf_apex.md
 ```
 
----
+
 
 ## Does TechnoSense provide database services?
 
@@ -202,7 +202,7 @@ Detailed information should be retrieved from:
 services/database/
 ```
 
----
+
 
 ## Does TechnoSense provide Oracle Database services?
 
@@ -210,7 +210,7 @@ Yes. Oracle Database is one of TechnoSense's documented database service offerin
 
 The dedicated Oracle Database document should be used for detailed questions about its capabilities.
 
----
+
 
 ## Does TechnoSense provide database migration?
 
@@ -218,7 +218,7 @@ Yes. Database Migration is one of TechnoSense's documented database offerings.
 
 Specific migration methodologies, technologies, timelines, or supported database combinations should only be stated when supported by the dedicated database migration documentation.
 
----
+
 
 ## Does TechnoSense provide managed database services?
 
@@ -226,7 +226,7 @@ Yes. Managed Database Services are included in TechnoSense's database service po
 
 The dedicated managed database service document should be used for detailed information.
 
----
+
 
 # Microsoft 365 Questions
 
@@ -240,7 +240,7 @@ The documented Microsoft 365 service areas include:
 - Security Solutions
 - Mobile Device Management
 
----
+
 
 ## Does TechnoSense provide Microsoft 365 licensing and setup?
 
@@ -248,7 +248,7 @@ Yes. Microsoft 365 Licensing & Setup is one of TechnoSense's documented Microsof
 
 The service includes areas such as tenant and account setup, migration, security and compliance configuration, application deployment, and user onboarding where documented.
 
----
+
 
 ## Does TechnoSense provide Microsoft 365 security services?
 
@@ -269,7 +269,7 @@ Specific security capabilities should be answered from:
 services/microsoft_365/security_solutions.md
 ```
 
----
+
 
 ## Does TechnoSense provide mobile device management?
 
@@ -277,7 +277,7 @@ Yes. Mobile Device Management is included within TechnoSense's Microsoft 365 ser
 
 It should not be treated as synonymous with the broader Enterprise Mobility Solutions offering.
 
----
+
 
 # Enterprise Mobility Questions
 
@@ -289,7 +289,7 @@ The service relates broadly to enterprise mobility and mobile technology require
 
 Because publicly available company information contains limited technical detail about this offering, unsupported assumptions about specific mobile platforms, frameworks, architectures, or products should not be made.
 
----
+
 
 ## Is Enterprise Mobility the same as Mobile Device Management?
 
@@ -301,7 +301,7 @@ Mobile Device Management is a more specific capability focused on managing and s
 
 TechnoSense lists both Enterprise Mobility Solutions and Microsoft 365 Mobile Device Management as separate service areas.
 
----
+
 
 # Resource Placement Questions
 
@@ -311,7 +311,7 @@ Yes. Resource Placement is included in TechnoSense's service portfolio.
 
 The service is intended to address customer technical-resource requirements and align suitable technical expertise with customer needs.
 
----
+
 
 ## What technology areas can Resource Placement support?
 
@@ -328,7 +328,7 @@ Resource Placement may be relevant to technology areas represented within Techno
 
 The presence of a technology in the broader service portfolio does not guarantee the availability of a specific resource for that technology.
 
----
+
 
 # Technology Partner Questions
 
@@ -345,7 +345,7 @@ AWS is specifically displayed as **AWS Partner**.
 
 Microsoft, Redington, and Fortinet are displayed in the Trusted Alliances section.
 
----
+
 
 ## Is TechnoSense an AWS Partner?
 
@@ -353,7 +353,7 @@ Yes. TechnoSense's official website explicitly displays **AWS Partner** in its T
 
 The available company information does not establish a specific AWS partner tier or competency level.
 
----
+
 
 ## Does TechnoSense partner with Microsoft?
 
@@ -361,7 +361,7 @@ Microsoft is displayed in TechnoSense's Trusted Alliances section.
 
 TechnoSense also provides Microsoft 365 services, including licensing and setup, security solutions, and mobile device management.
 
----
+
 
 ## Is Redington a TechnoSense partner?
 
@@ -369,7 +369,7 @@ Redington is displayed by TechnoSense in its **Trusted Alliances** section.
 
 The publicly available information does not specify the exact contractual or commercial nature of the relationship.
 
----
+
 
 ## Does TechnoSense have an alliance with Fortinet?
 
@@ -377,7 +377,7 @@ Fortinet is displayed by TechnoSense in its **Trusted Alliances** section.
 
 The publicly available company information does not specify the exact Fortinet partner level, products, certifications, or implementation arrangements.
 
----
+
 
 ## Is Oracle a TechnoSense technology partner?
 
@@ -387,7 +387,7 @@ TechnoSense provides Oracle-related services, but the published Trusted Alliance
 
 Technology expertise and formal partnership status should be treated as separate concepts.
 
----
+
 
 # Career Questions
 
@@ -406,7 +406,7 @@ The company identifies hiring areas including:
 - Business Analysts
 - Support & Managed Services Teams
 
----
+
 
 ## What software-development technologies does TechnoSense hire for?
 
@@ -419,19 +419,19 @@ The Careers page identifies:
 
 as software-development hiring areas.
 
----
+
 
 ## Does TechnoSense hire cloud and DevOps engineers?
 
 Yes. Cloud Engineers and DevOps Engineers are among the career areas identified by TechnoSense.
 
----
+
 
 ## Does TechnoSense hire database administrators?
 
 Yes. Database Administrators are explicitly listed among the company's hiring areas.
 
----
+
 
 ## How can I apply for a job at TechnoSense?
 
@@ -441,7 +441,7 @@ Candidates are instructed on the Careers page to send their resume to:
 
 The published Careers information does not specify a separate online recruitment portal.
 
----
+
 
 ## What benefits does TechnoSense mention for employees?
 
@@ -458,7 +458,7 @@ TechnoSense highlights:
 
 Specific employment benefits, compensation, or contractual terms should not be inferred beyond the information published by the company.
 
----
+
 
 # RAG Routing Rules
 
@@ -484,7 +484,6 @@ FAQ      Specialized
 ## Recommended Routing
 
 | User Question | Preferred Document |
-|---|---|
 | General company information | `company/company_overview.md` |
 | Company facts | `company/company_facts.md` |
 | Why choose TechnoSense | `company/why_choose_us.md` |
@@ -500,7 +499,7 @@ FAQ      Specialized
 | Careers | `business_information/careers.md` |
 | Technology partners | `business_information/technology_partners.md` |
 
----
+
 
 # Answering Principles
 
@@ -512,7 +511,7 @@ Answers should be based on information explicitly documented by TechnoSense.
 
 General industry knowledge should not be presented as a TechnoSense capability unless the company documentation supports it.
 
----
+
 
 ## 2. Do Not Invent Missing Details
 
@@ -529,7 +528,7 @@ Examples include:
 - Current job vacancies
 - Specific contractual terms
 
----
+
 
 ## 3. Distinguish Services From Partnerships
 
@@ -543,7 +542,7 @@ Service / Expertise ≠ Formal Partnership
 
 The Trusted Alliances information should be used when answering partnership questions.
 
----
+
 
 ## 4. Distinguish Related Services
 
@@ -563,7 +562,7 @@ Mobile Application Development ≠ Enterprise Mobility
 
 These distinctions improve retrieval accuracy and reduce hallucinated relationships.
 
----
+
 
 ## 5. Use Dedicated Documents for Detailed Answers
 
@@ -581,7 +580,7 @@ services/database/database_migration.md
 
 rather than relying only on this FAQ.
 
----
+
 
 # Unsupported Information
 
@@ -608,7 +607,7 @@ The following categories require authoritative source evidence before being incl
 
 If such information is requested and no authoritative source is available, the RAG assistant should state that the information is not specified in the available TechnoSense documentation.
 
----
+
 
 # Document Scope
 

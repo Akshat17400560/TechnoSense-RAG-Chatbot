@@ -1,12 +1,8 @@
 ---
-document_type: service_overview
 document_id: cloud_consulting
-title: Cloud Consulting Services
-category: services
-service_category: cloud
-company: TechnoSense NextGen Solutions
-source_url: https://technosense.in/cloud-consulting.html
-source_type: company_website
+title: Cloud Consulting
+category: Cloud
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Cloud Consulting Services
@@ -236,7 +232,6 @@ Retrieve this document for broad questions involving:
 For detailed questions, retrieve the relevant child document:
 
 | User Query | Preferred Document |
-|---|---|
 | Cloud consulting services | `cloud_consulting.md` |
 | Cloud adoption strategy | `cloud_adoption_strategy.md` |
 | Cloud roadmap | `cloud_adoption_strategy.md` |

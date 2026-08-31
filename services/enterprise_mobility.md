@@ -1,10 +1,9 @@
-# Enterprise Mobility
-
-## Service Category
-
-**Category:** IT Services  
-**Service:** Enterprise Mobility Solutions  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited
+---
+document_id: enterprise_mobility
+title: Enterprise Mobility
+category: IT services
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
 ## Overview
 
@@ -16,7 +15,7 @@ TechnoSense's website identifies **Enterprise Mobility Solutions** within its se
 
 Because the publicly available Enterprise Mobility service information does not provide a detailed feature-by-feature description, this document intentionally avoids attributing specific mobility products, architectures, platforms, or implementation methodologies to TechnoSense unless they are explicitly supported by company material.
 
----
+
 
 # Service Purpose
 
@@ -36,7 +35,7 @@ However, the specific scope of an individual TechnoSense engagement depends on c
 
 The company-specific service material available does not define a fixed list of Enterprise Mobility deliverables.
 
----
+
 
 # Enterprise Mobility Concept
 
@@ -62,7 +61,7 @@ Enterprise mobility can therefore act as a connection between enterprise applica
 
 This diagram is a conceptual representation and is not a documented TechnoSense architecture.
 
----
+
 
 # Technology Context
 
@@ -92,7 +91,7 @@ Enterprise Mobility
 
 The relationship indicates technology overlap within TechnoSense's service portfolio rather than a published implementation dependency.
 
----
+
 
 # Mobile Application Development Context
 
@@ -123,7 +122,7 @@ Enterprise Mobility
 
 The RAG system should not claim that every Enterprise Mobility engagement includes application development unless the relevant source explicitly states this.
 
----
+
 
 # Oracle MAF & MCS Context
 
@@ -137,14 +136,13 @@ However, the existence of the MAF & MCS service does not by itself establish tha
 
 The RAG system should maintain these as separate service concepts.
 
----
+
 
 # Potential Enterprise Mobility Areas
 
 Enterprise mobility projects may involve several broad areas:
 
 | Area | General Purpose |
-|---|---|
 | Mobile Applications | Provide business functionality through mobile applications |
 | Enterprise Access | Enable users to access business resources through mobile devices |
 | Mobile Workforce | Support employees working away from traditional desktop environments |
@@ -154,7 +152,7 @@ Enterprise mobility projects may involve several broad areas:
 
 These are general enterprise-mobility concepts and should not be interpreted as a confirmed list of TechnoSense deliverables.
 
----
+
 
 # Enterprise Mobility and Business Operations
 
@@ -178,7 +176,7 @@ Depending on the organization's requirements, mobility can support employees, fi
 
 Specific TechnoSense-supported user groups are not defined in the publicly available service material.
 
----
+
 
 # Relationship With Development Services
 
@@ -206,7 +204,7 @@ Enterprise Mobility Requirement
 
 The specific technology selected should depend on the customer requirements and should not be assumed by the RAG system.
 
----
+
 
 # Relationship With Microsoft 365
 
@@ -236,7 +234,7 @@ Enterprise Mobility
 
 However, Enterprise Mobility should not be treated as synonymous with Microsoft 365 Mobile Device Management.
 
----
+
 
 # Relationship With Cloud Services
 
@@ -253,7 +251,7 @@ These services may be relevant when a mobility solution requires cloud infrastru
 
 However, the RAG system should only associate a specific cloud service with an Enterprise Mobility engagement when the source material explicitly establishes that relationship.
 
----
+
 
 # Business Objectives
 
@@ -268,7 +266,7 @@ Enterprise mobility initiatives generally aim to help organizations:
 
 These are general enterprise-mobility objectives and should not be represented as quantified or guaranteed outcomes of TechnoSense's service.
 
----
+
 
 # When Enterprise Mobility Is Relevant
 
@@ -284,7 +282,7 @@ Enterprise Mobility Solutions may be relevant when an organization:
 
 The exact service scope should be determined from the customer's requirements.
 
----
+
 
 # RAG Knowledge Representation
 
@@ -318,7 +316,7 @@ Mobile Device Management
 
 These are related service areas, not necessarily components of every Enterprise Mobility engagement.
 
----
+
 
 # Supported RAG Queries
 
@@ -336,7 +334,7 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense provide services related to mobile applications?
 - What TechnoSense services are related to enterprise mobility?
 
----
+
 
 # Important Answer Boundaries
 
@@ -369,7 +367,7 @@ The RAG system must not invent these details.
 
 In particular, the RAG system should **not automatically state that TechnoSense implements a particular mobile platform, framework, MDM product, or enterprise mobility architecture** unless the company-specific source explicitly confirms it.
 
----
+
 
 # Source References
 
@@ -391,7 +389,7 @@ as Development Services.
 
 TechnoSense also lists Microsoft 365 services and Mobile Devices Management separately within its service portfolio.
 
----
+
 
 # Document Scope
 

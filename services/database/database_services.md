@@ -1,10 +1,11 @@
-# Database Services
+---
+document_id: database_services
+title: Database Services
+category: Database
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
 
-**Category:** Database Management  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited  
-**Primary Database Technology:** Oracle Database
 
 ## Overview
 
@@ -140,7 +141,6 @@ TechnoSense's website also identifies database administration as one of the tech
 ## Service Summary
 
 | Offering | Primary Purpose |
-|---|---|
 | Oracle Database Installation | Establish and deploy Oracle database environments |
 | Version Upgrades | Upgrade Oracle database environments to newer versions |
 | Server Setup & Migration | Set up database servers and migrate existing database environments |

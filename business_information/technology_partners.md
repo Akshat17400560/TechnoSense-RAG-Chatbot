@@ -1,10 +1,9 @@
-# Technology Partners
-
-## Category
-
-**Category:** Business Information  
-**Topic:** Technology Partners & Alliances  
-**Organization:** TechnoSense NextGen Solutions Pvt Limited
+---
+document_id: technology_partners
+title: Technology Partners
+category: business_information
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
 ## Overview
 
@@ -21,7 +20,7 @@ The technology organizations displayed in this section are:
 
 These are the technology alliances explicitly presented by TechnoSense on its official website.
 
----
+
 
 # Trusted Alliances
 
@@ -59,7 +58,7 @@ AWS Partner
 
 The correct company-specific answer is that TechnoSense publicly identifies itself as an **AWS Partner**.
 
----
+
 
 # Microsoft
 
@@ -102,7 +101,7 @@ Microsoft
 Microsoft 365 Services
 ```
 
----
+
 
 # Redington
 
@@ -138,7 +137,7 @@ Redington
 
 The safe company-specific answer is that **Redington is listed by TechnoSense as a trusted alliance**.
 
----
+
 
 # Fortinet
 
@@ -167,12 +166,12 @@ Security / Network Technology Context
 
 The RAG system should therefore state that **Fortinet is listed as a trusted alliance**, without inventing a specific Fortinet partnership level or product specialization.
 
----
+
 
 # Trusted Alliances Summary
 
 | Organization | Published Relationship | Related TechnoSense Context |
-|---|---|---|
+||||
 | AWS | AWS Partner | Cloud & DevOps |
 | Microsoft | Trusted Alliance | Microsoft 365 / O365 |
 | Redington | Trusted Alliance | Technology ecosystem |
@@ -180,7 +179,7 @@ The RAG system should therefore state that **Fortinet is listed as a trusted all
 
 The relationship terminology differs slightly in the published material: AWS is specifically shown as **“AWS Partner”**, while Microsoft, Redington, and Fortinet appear as organizations in the **Trusted alliances** section.
 
----
+
 
 # Relationship With TechnoSense Services
 
@@ -207,7 +206,7 @@ The published alliances provide technology context for several TechnoSense servi
 
 Redington is also part of the published trusted-alliance list, but the available source does not establish a specific one-to-one mapping between Redington and an individual TechnoSense service.
 
----
+
 
 # AWS and Cloud Services
 
@@ -226,7 +225,7 @@ However, the RAG system should not automatically answer that **all** TechnoSense
 
 The specific cloud platform used for a customer engagement should only be stated when supported by the relevant project or service source.
 
----
+
 
 # Microsoft and Microsoft 365 Services
 
@@ -245,7 +244,7 @@ Therefore, Microsoft is both:
 1. A published trusted alliance.
 2. A major technology platform within TechnoSense's service portfolio.
 
----
+
 
 # Fortinet and Security Services
 
@@ -268,7 +267,7 @@ However, these Microsoft 365 security services should **not** automatically be a
 
 The presence of Fortinet in the Trusted Alliances section does not establish that Fortinet products are used in every TechnoSense security implementation.
 
----
+
 
 # Technology Partner vs Technology Expertise
 
@@ -298,7 +297,7 @@ A technology appearing in TechnoSense's service portfolio does not automatically
 
 This distinction is important for accurate company-specific RAG responses.
 
----
+
 
 # RAG Knowledge Representation
 
@@ -338,7 +337,6 @@ Redington
 
 The service relationships shown above are contextual and should not be interpreted as exclusive vendor-service mappings.
 
----
 
 # Supported RAG Queries
 
@@ -361,7 +359,6 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense work with AWS and Microsoft?
 - What is the difference between TechnoSense's technology partners and its technology services?
 
----
 
 # Important Answer Boundaries
 
@@ -397,8 +394,6 @@ For example, TechnoSense demonstrates significant Oracle technology expertise th
 
 Therefore, Oracle should be represented as a **technology/service area**, not automatically as a **confirmed technology partner**, unless TechnoSense publishes an explicit Oracle partnership elsewhere.
 
----
-
 # Source References
 
 ## Primary Source – TechnoSense Homepage
@@ -424,7 +419,6 @@ TechnoSense's Cloud Implementation & Migration and Cloud Strategy pages provide 
 
 TechnoSense's Security Solutions page provides context for its Microsoft 365 security capabilities, while the homepage identifies Fortinet among its trusted alliances.
 
----
 
 # Document Scope
 

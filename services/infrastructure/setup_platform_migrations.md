@@ -1,16 +1,8 @@
 ---
-document_type: service_detail
 document_id: setup_platform_migrations
-title: Setup & Platform Migrations
-category: services
-service_category: infrastructure
-service_type: implementation_and_migration
-company: TechnoSense NextGen Solutions
-parent_document: infrastructure_management.md
-source_url: https://technosense.in/infrastructure-management.html
-related_source_urls:
-  - https://technosense.in/implementation-migration.html
-source_type: company_website
+title: Setup Platform Migrations
+category: Infrastructure
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Setup & Platform Migrations

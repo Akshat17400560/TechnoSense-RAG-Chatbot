@@ -1,11 +1,10 @@
-# Microsoft 365 Services
+---
+document_id: mirosoft_365_services
+title: Microsoft 365 Services
+category: Microsoft_365
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
-
-**Category:** Microsoft 365  
-**Service:** Microsoft O365 Services  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited  
-**Primary Platform:** Microsoft 365 / Office 365
 
 ## Overview
 
@@ -243,7 +242,6 @@ The purpose is to help users adapt to the Microsoft 365 environment and use the 
 The three Microsoft 365 offerings are complementary.
 
 | Service | Primary Focus |
-|---|---|
 | O365 Licensing & Setup | Licensing, tenant setup, accounts, applications, migration, and onboarding |
 | Security Solutions | Identity, email, data, device, and Microsoft 365 security |
 | Mobile Devices Management | Management and security of mobile and endpoint devices |

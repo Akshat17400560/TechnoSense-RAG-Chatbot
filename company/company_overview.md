@@ -2,14 +2,7 @@
 document_id: technosense_company_overview
 title: TechnoSense Company Overview
 category: company
-subcategory: company_information
-content_type: company_overview
 company: TechnoSense NextGen Solutions Pvt Limited
-source_type: company_website
-source_url: https://technosense.in/
-source_pages:
-  - https://technosense.in/
-  - https://technosense.in/about-us.html
 ---
 
 # TechnoSense Company Overview
@@ -168,7 +161,6 @@ Additional source: TechnoSense About Us page
 URL: https://technosense.in/about-us.html
 
 Last reviewed: 2026-08-29
----
 
 ## RAG Usage Notes
 

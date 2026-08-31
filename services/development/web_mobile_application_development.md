@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
 document_id: web_mobile_application_development
-title: Web & Mobile Application Development
-category: services
-service_category: development
-service_type: web_and_mobile_application_development
-company: TechnoSense NextGen Solutions
-parent_document: development_services.md
-source_url: https://technosense.in/
-source_type: company_website
+title: Web Mobile Application Development
+category: Development
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Web & Mobile Application Development

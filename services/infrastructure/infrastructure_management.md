@@ -1,12 +1,8 @@
 ---
-document_type: service_overview
 document_id: infrastructure_management
-title: Infrastructure Management Services
-category: services
-service_category: infrastructure
-company: TechnoSense NextGen Solutions
-source_url: https://technosense.in/infrastructure-management.html
-source_type: company_website
+title: Infrastructure Management
+category: Infrastructure
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Infrastructure Management Services

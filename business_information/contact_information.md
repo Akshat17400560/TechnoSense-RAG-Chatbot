@@ -1,14 +1,11 @@
-# Contact Information
-
-## Organization
-
-**Company Name:** TechnoSense NextGen Solutions Pvt Limited
-
-**Website:** technosense.in
-
-TechnoSense NextGen Solutions provides IT infrastructure, cloud, development, database, Microsoft 365, and related technology services.
-
 ---
+document_id: contact_information
+title: Contact Information
+category: business_information
+company: TechnoSense NextGen Solutions Pvt Limited
+---
+
+
 
 # Official Contact Details
 
@@ -30,19 +27,19 @@ The official contact page publishes this number as the company's contact phone n
 
 The official website provides this email address for contacting TechnoSense.
 
----
+
 
 # Contact Information Summary
 
 | Contact Type | Information |
-|---|---|
+|||
 | Company | TechnoSense NextGen Solutions Pvt Limited |
 | Address | 48, 7th Floor, ETT Tower - 2B-36, Sector 132, Noida |
 | Phone | +91-9911191139 |
 | Email | info@technosense.in |
 | Website | technosense.in |
 
----
+
 
 # Contact Us
 
@@ -58,7 +55,7 @@ The contact form requests:
 
 The form is intended to allow prospective customers or other visitors to communicate their requirements to TechnoSense.
 
----
+
 
 # Types of Enquiries
 
@@ -79,7 +76,7 @@ Potential enquiry areas include TechnoSense's published service categories such 
 
 The appropriate service-specific documentation should be used when answering detailed questions about any particular service.
 
----
+
 
 # Office Location
 
@@ -96,7 +93,7 @@ Noida
 
 The company's official website and its contact page use this address in their contact information.
 
----
+
 
 # Contact Flow
 
@@ -118,7 +115,7 @@ TechnoSense Contact Team
 
 This represents the information collected by the published contact form and should not be interpreted as a documented internal lead-processing workflow.
 
----
+
 
 # Relationship With Services
 
@@ -163,7 +160,7 @@ Microsoft 365
 
 The contact page serves as a general entry point rather than providing separate contact details for each service.
 
----
+
 
 # RAG Knowledge Representation
 
@@ -199,7 +196,7 @@ Phone
 Office Address
 ```
 
----
+
 
 # Supported RAG Queries
 
@@ -220,7 +217,7 @@ This document should enable the RAG system to answer questions such as:
 - How do I contact TechnoSense about an IT service?
 - How can I submit my requirements to TechnoSense?
 
----
+
 
 # Important Answer Boundaries
 
@@ -247,7 +244,7 @@ The RAG system must not invent these details.
 
 In particular, `info@technosense.in` should be treated as the published general contact email. It should not automatically be described as a dedicated sales, support, HR, or technical-support address.
 
----
+
 
 # Source References
 
@@ -259,7 +256,7 @@ TechnoSense's official Contact Us page provides the company's published office a
 
 The TechnoSense homepage also publishes the same contact address, phone number, and email address.
 
----
+
 
 # Document Scope
 

@@ -1,11 +1,10 @@
-# Mobile Device Management
+---
+document_id: mobile_device_management
+title: Mobile Device Management
+category: Microsoft_365
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
-
-**Category:** Microsoft 365  
-**Service:** Mobile Devices Management  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited  
-**Primary Platform:** Microsoft 365 / Microsoft Intune
 
 ## Overview
 
@@ -44,7 +43,7 @@ Mobile Devices Management
           └── Remote Wipe
 ```
 
----
+
 
 # 1. Mobile Device Management
 
@@ -72,7 +71,7 @@ Secure Corporate Access
 
 The enrollment mechanism, supported operating systems, device limits, and deployment methodology are not specified by the source.
 
----
+
 
 # 2. Intune Policies
 
@@ -106,7 +105,7 @@ Secure Device Access
 
 The specific Intune policy templates, configuration values, deployment groups, or automation methods used by TechnoSense are not specified.
 
----
+
 
 # 3. Device Compliance
 
@@ -137,7 +136,6 @@ Allowed    Restriction
 
 The exact compliance criteria and actions applied to non-compliant devices are not described in TechnoSense's published material.
 
----
 
 # 4. Device Encryption
 
@@ -161,7 +159,7 @@ Protected Data
 
 The specific encryption technologies, algorithms, key-management mechanisms, or encryption policies used by TechnoSense are not specified.
 
----
+
 
 # 5. Remote Wipe
 
@@ -192,7 +190,7 @@ Reduced Data Exposure
 
 The source does not specify the exact conditions under which TechnoSense applies remote wipe or the specific Intune configuration used.
 
----
+
 
 # Device & Endpoint Security
 
@@ -233,7 +231,7 @@ Therefore, the service extends beyond smartphones and can include other managed 
 
 The exact range of supported endpoint types is not fully defined by the published source.
 
----
+
 
 # Mobile Device Security Lifecycle
 
@@ -259,7 +257,7 @@ Remote Action When Required
 
 This represents the relationship between the capabilities described by TechnoSense and is not a documented mandatory implementation workflow.
 
----
+
 
 # Relationship With Microsoft 365 Security Solutions
 
@@ -298,7 +296,7 @@ The relationship can be represented as:
                  Environment
 ```
 
----
+
 
 # Relationship With O365 Licensing & Setup
 
@@ -322,7 +320,7 @@ Security & Compliance
 
 The exact order of implementation may vary depending on customer requirements.
 
----
+
 
 # Device Management Objectives
 
@@ -344,7 +342,7 @@ Intune policies and compliance rules can be used to enforce organizational requi
 
 Remote wipe and device-security controls can reduce the potential exposure of corporate information when a device is lost, stolen, or otherwise compromised.
 
----
+
 
 # Business Benefits
 
@@ -361,7 +359,7 @@ TechnoSense's Mobile Devices Management capability can help organizations:
 
 These benefits are derived from the device-management and endpoint-security capabilities explicitly described by TechnoSense.
 
----
+
 
 # When This Service Is Relevant
 
@@ -378,7 +376,7 @@ Mobile Device Management is relevant when an organization:
 - Uses Microsoft 365 and requires device-management capabilities.
 - Needs to manage devices as part of its broader Microsoft 365 security strategy.
 
----
+
 
 # RAG Knowledge Representation
 
@@ -420,7 +418,6 @@ Compliance Rules
 Remote Wipe
 ```
 
----
 
 # Supported RAG Queries
 
@@ -445,7 +442,6 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense support device compliance?
 - Does TechnoSense provide remote data removal from managed devices?
 
----
 
 # Important Answer Boundaries
 
@@ -485,7 +481,6 @@ In particular, because TechnoSense mentions Microsoft Intune, the RAG system sho
 
 Only the capabilities supported by TechnoSense's own published information should be treated as confirmed.
 
----
 
 # Source References
 
@@ -510,7 +505,6 @@ The published information specifically references:
 
 Source: TechnoSense NextGen Solutions – Security Solutions
 
----
 
 # Document Scope
 

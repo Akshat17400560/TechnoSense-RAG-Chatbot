@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
 document_id: devops_consulting
-title: DevOps Consulting
-category: services
-service_category: cloud
-service_type: devops_consulting
-company: TechnoSense NextGen Solutions
-parent_document: cloud_consulting.md
-source_url: https://technosense.in/cloud-consulting.html
-source_type: company_website
+title: Devops Consulting
+category: Cloud
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # DevOps Consulting

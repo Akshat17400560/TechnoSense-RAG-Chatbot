@@ -1,14 +1,8 @@
 ---
-document_type: service_detail
 document_id: network_security_compliances
-title: Network Security & Compliances
-category: services
-service_category: infrastructure
-service_type: security_and_compliance
-company: TechnoSense NextGen Solutions
-parent_document: infrastructure_management.md
-source_url: https://technosense.in/network-security-compliances.html
-source_type: company_website
+title: Network Security Compliances
+category: Infrastructure
+company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
 # Network Security & Compliances

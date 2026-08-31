@@ -1,11 +1,10 @@
-# Oracle Database Installation
+---
+document_id: oracle_database_installation
+title: Oracle Database Installation
+category: Database
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
-
-**Category:** Database Management  
-**Service:** Oracle Database Installation  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited  
-**Primary Technology:** Oracle Database
 
 ## Overview
 
@@ -65,7 +64,6 @@ Where an existing Oracle environment needs to be moved to another infrastructure
 These services should therefore be treated as related but distinct offerings:
 
 | Service | Purpose |
-|---|---|
 | Oracle Database Installation | Establish an Oracle database environment |
 | Server Setup & Migration | Prepare database server environments and support movement of existing environments |
 | Version Upgrades | Move an Oracle database environment to a newer version |

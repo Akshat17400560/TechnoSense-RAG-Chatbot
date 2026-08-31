@@ -1,11 +1,9 @@
-# Microsoft 365 Licensing & Setup
-
-## Service Category
-
-**Category:** Microsoft 365  
-**Service:** O365 Licensing & Setup  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited  
-**Primary Platform:** Microsoft 365 / Office 365
+---
+document_id: licensing_setup
+title: Licensing Setup
+category: Microsoft_365
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
 ## Overview
 
@@ -48,8 +46,6 @@ O365 Licensing & Setup
         └── User Training & Onboarding
 ```
 
----
-
 ## 1. License Selection
 
 TechnoSense assists organizations with selecting appropriate Microsoft 365 licenses based on their business requirements.
@@ -62,7 +58,6 @@ The published source does not specify individual license SKUs, pricing, discount
 
 The system should answer that TechnoSense provides **O365 licensing assistance**, but should not recommend or quote a specific Microsoft 365 license unless the relevant license information is explicitly available in the knowledge base.
 
----
 
 ## 2. Office 365 Tenant Setup
 
@@ -86,7 +81,7 @@ User & Service Configuration
 
 Specific tenant architecture, domain configuration procedures, identity architecture, or implementation methodology are not specified by the source.
 
----
+
 
 ## 3. User Account Setup
 
@@ -110,7 +105,7 @@ Microsoft 365 Service Access
 
 The published source does not specify account provisioning automation, directory synchronization architecture, or identity-provider configurations.
 
----
+
 
 ## 4. Mailbox Configuration
 
@@ -122,7 +117,7 @@ Mailbox configuration can also be associated with TechnoSense's migration servic
 
 The source does not specify detailed Exchange Online configuration procedures or mailbox migration tooling.
 
----
+
 
 ## 5. Permissions Configuration
 
@@ -134,7 +129,7 @@ This capability contributes to the organization's overall Microsoft 365 access a
 
 Specific permission models, role structures, administrative roles, or identity architectures are not detailed in the published source.
 
----
+
 
 # 6. O365 Migration
 
@@ -197,7 +192,6 @@ It does not specify:
 
 These details should not be inferred.
 
----
 
 # 7. Security & Compliance Configuration
 
@@ -221,7 +215,7 @@ Security Solutions / Ongoing Protection
 
 Specific security controls should be sourced from the dedicated `security_solutions.md` document when answering detailed security questions.
 
----
+
 
 # 8. Application Deployment
 
@@ -251,7 +245,7 @@ Microsoft 365 Environment
 
 The source does not specify deployment automation tools, endpoint deployment platforms, application packaging procedures, or supported operating systems.
 
----
+
 
 # 9. User Training & Onboarding
 
@@ -277,7 +271,6 @@ Microsoft 365 Adoption
 
 The source does not specify training duration, training formats, course materials, or the number of users supported.
 
----
 
 # Microsoft 365 Setup Lifecycle
 
@@ -307,14 +300,12 @@ Operational Microsoft 365 Environment
 
 This represents a conceptual relationship between the services published by TechnoSense and is not a mandatory implementation sequence.
 
----
 
 # Supported Migration Sources
 
 One of the most useful pieces of information for RAG retrieval is the explicitly stated migration-source list.
 
 | Existing Environment | Migration to O365 |
-|---|---|
 | Gmail | Supported by published service description |
 | Exchange | Supported by published service description |
 | IMAP | Supported by published service description |
@@ -325,7 +316,6 @@ One of the most useful pieces of information for RAG retrieval is the explicitly
 The published service information identifies:
 
 | Data Type | Included in Published Migration Scope |
-|---|---|
 | Emails | Yes |
 | Contacts | Yes |
 | Calendars | Yes |
@@ -334,7 +324,7 @@ The published service information identifies:
 
 The exact migration scope for a particular customer should be determined from the organization's requirements and should not be assumed solely from this document.
 
----
+
 
 # Business Benefits
 
@@ -352,7 +342,7 @@ TechnoSense's O365 Licensing & Setup service is positioned to help organizations
 
 TechnoSense specifically describes its migration capability as supporting deployment without downtime. ([technosense.in](https://technosense.in/O365-licensing-setup.html?utm_source=chatgpt.com))
 
----
+
 
 # When This Service Is Relevant
 
@@ -372,7 +362,7 @@ O365 Licensing & Setup is relevant when an organization:
 - Needs user onboarding and training.
 - Wants security and compliance configuration during O365 deployment.
 
----
+
 
 # Relationship With Other Microsoft 365 Services
 
@@ -392,7 +382,7 @@ The setup service can therefore serve as an initial implementation stage before 
 
 The broader `microsoft_365_services.md` document acts as the category-level source connecting Licensing & Setup with Security Solutions and Mobile Device Management.
 
----
+
 
 # RAG Knowledge Representation
 
@@ -448,8 +438,6 @@ Files
 Other Data
 ```
 
----
-
 # Supported RAG Queries
 
 This document should enable the RAG system to answer questions such as:
@@ -475,7 +463,6 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense provide security and compliance configuration during O365 setup?
 - What does TechnoSense's O365 Licensing & Setup service include?
 
----
 
 # Important Answer Boundaries
 
@@ -525,7 +512,6 @@ The published source does **not** specify:
 
 These details must not be invented by the RAG system.
 
----
 
 # Source References
 
@@ -555,7 +541,6 @@ The broader Microsoft O365 Services page identifies O365 Licensing & Setup as on
 
 Source: TechnoSense NextGen Solutions – Microsoft O365 Services
 
----
 
 # Document Scope
 

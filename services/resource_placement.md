@@ -1,10 +1,10 @@
-# Resource Placement
+---
+document_id: resource_placement
+title: Resource Placement
+category: IT Services
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
-
-**Category:** IT Services  
-**Service:** Resource Placement  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited
 
 ## Overview
 
@@ -47,7 +47,7 @@ Project / Operational Support
 
 The above represents a conceptual relationship between customer requirements and resource placement. It should not be interpreted as a documented mandatory TechnoSense recruitment or delivery workflow.
 
----
+
 
 # Resource Placement Model
 
@@ -74,7 +74,7 @@ Resource Placement can be understood as a capability-alignment service.
 
 The objective is to align technical resources with the customer's technology requirements.
 
----
+
 
 # Technology Resource Areas
 
@@ -95,7 +95,7 @@ Potential technology areas represented in the TechnoSense service portfolio incl
 
 These areas describe the broader technology domains in which TechnoSense operates. They should not be interpreted as a definitive list of resource-placement job roles or guaranteed staffing categories unless explicitly documented by TechnoSense.
 
----
+
 
 # Resource Skill Alignment
 
@@ -121,7 +121,7 @@ Customer Requirement
 
 The exact evaluation and selection methodology used by TechnoSense is not specified in the available service information.
 
----
+
 
 # Resource Placement Use Cases
 
@@ -136,7 +136,7 @@ Resource Placement can be relevant when an organization:
 - Requires expertise in a specific technology domain.
 - Needs technical resources to support an ongoing initiative.
 
----
+
 
 # Relationship With TechnoSense Service Portfolio
 
@@ -164,7 +164,7 @@ Resource Placement
 
 This relationship indicates potential areas of technology expertise rather than a published mapping of specific resource profiles.
 
----
+
 
 # Business Benefits
 
@@ -182,7 +182,7 @@ Potential business objectives include:
 
 These are general business objectives associated with resource placement and should not be represented as quantified or guaranteed outcomes by TechnoSense.
 
----
+
 
 # Resource Placement Lifecycle
 
@@ -206,7 +206,7 @@ Technical Support / Delivery
 
 The exact process followed by TechnoSense may vary depending on the customer engagement.
 
----
+
 
 # Customer Requirements
 
@@ -215,7 +215,6 @@ Resource placement requirements may vary based on the nature of the engagement.
 Typical requirement dimensions can include:
 
 | Requirement Area | Description |
-|---|---|
 | Technology | Technology or platform expertise required |
 | Skills | Technical capabilities required |
 | Experience | Relevant professional/project experience |
@@ -226,7 +225,7 @@ Typical requirement dimensions can include:
 
 The specific resource requirements should be established with the customer rather than assumed from this document.
 
----
+
 
 # Relationship With Professional Services
 
@@ -248,7 +247,7 @@ Consulting / Project Requirement
 
 Resource Placement should therefore be viewed as a resource-enablement capability rather than as a replacement for TechnoSense's individual consulting or implementation services.
 
----
+
 
 # RAG Knowledge Representation
 
@@ -278,7 +277,7 @@ Enterprise Mobility
 
 These represent technology domains present within TechnoSense's broader service portfolio and are not a definitive list of staffing specializations.
 
----
+
 
 # Supported RAG Queries
 
@@ -299,7 +298,7 @@ This document should enable the RAG system to answer questions such as:
 - Can resource placement support DevOps initiatives?
 - When should an organization consider TechnoSense Resource Placement?
 
----
+
 
 # Important Answer Boundaries
 
@@ -331,7 +330,7 @@ These details should not be invented or inferred.
 
 Similarly, the technology domains listed in this document should not be interpreted as proof that TechnoSense guarantees availability of a resource for every technology within those domains.
 
----
+
 
 # Source References
 
@@ -355,7 +354,6 @@ Resource Placement may conceptually support requirements associated with TechnoS
 
 The individual service documents remain the authoritative sources for the specific capabilities of those offerings.
 
----
 
 # Document Scope
 

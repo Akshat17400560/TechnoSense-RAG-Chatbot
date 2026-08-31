@@ -1,10 +1,10 @@
-# Managed Database Services
+---
+document_id: managed_database_services
+title: Managed Database Services
+category: Database
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
-
-**Category:** Database Management  
-**Service:** Managed Database Services  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited
 
 ## Overview
 
@@ -49,7 +49,7 @@ TechnoSense identifies seven primary capability areas within its Managed Databas
 
 These capabilities collectively address the ongoing operational lifecycle of database environments.
 
----
+
 
 ## 1. 24×7 Monitoring & Support
 
@@ -80,7 +80,7 @@ Issue Resolution & Support
 
 The exact monitoring tools, alerting platforms, escalation procedures, and response-time SLAs are not specified in the published source and should not be assumed.
 
----
+
 
 ## 2. Performance Optimization
 
@@ -98,7 +98,7 @@ The objective is to improve database speed and efficiency and help maintain data
 ### Performance Optimization Areas
 
 | Area | Purpose |
-|---|---|
+|||
 | Query tuning | Improve query execution efficiency |
 | Indexing | Optimize database access and indexing behavior |
 | Memory usage | Improve utilization of available database memory |
@@ -106,7 +106,7 @@ The objective is to improve database speed and efficiency and help maintain data
 
 The source does not specify particular performance monitoring products, database tuning tools, automation mechanisms, or performance targets.
 
----
+
 
 ## 3. Backup Management
 
@@ -136,7 +136,7 @@ Recovery When Required
 
 Specific backup frequency, retention periods, storage technologies, backup software, recovery objectives, and backup architecture are not stated in the published source.
 
----
+
 
 ## 4. Security Management
 
@@ -154,7 +154,7 @@ These controls are intended to protect sensitive database information.
 ### Security Management Areas
 
 | Area | Purpose |
-|---|---|
+|||
 | User access controls | Control access to database resources |
 | Encryption | Protect sensitive database information |
 | Auditing | Support monitoring and tracking of database activity |
@@ -162,7 +162,7 @@ These controls are intended to protect sensitive database information.
 
 The source does not specify particular security products, encryption algorithms, identity providers, compliance certifications, or security frameworks.
 
----
+
 
 ## 5. Patch & Update Management
 
@@ -190,7 +190,7 @@ Ongoing Monitoring
 
 Specific patch schedules, supported database versions, patching tools, maintenance windows, and rollback procedures are not specified by the source.
 
----
+
 
 ## 6. Disaster Recovery Support
 
@@ -219,7 +219,7 @@ Business Continuity
 
 Specific disaster recovery architectures, recovery time objectives (RTO), recovery point objectives (RPO), replication technologies, failover mechanisms, and recovery sites are not specified in the published source.
 
----
+
 
 ## 7. Health Checks & Reporting
 
@@ -250,7 +250,7 @@ Health & Performance Reports
 
 Specific reporting formats, reporting frequency, dashboards, monitoring platforms, and report delivery mechanisms are not specified in the published service description.
 
----
+
 
 ## Managed Database Service Lifecycle
 
@@ -333,7 +333,6 @@ These outcomes are based on the company's published description of the service.
 Managed Database Services represents the **ongoing operational stage** of TechnoSense's Database Management portfolio.
 
 | Service | Lifecycle Role |
-|---|---|
 | Oracle Database Installation | Initial database deployment |
 | Version Upgrades | Database lifecycle modernization |
 | Server Setup & Migration | Infrastructure preparation and database transition |

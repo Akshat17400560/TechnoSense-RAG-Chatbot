@@ -1,11 +1,10 @@
-# Server Setup & Migration
+---
+document_id: server_setup_migration
+title: Server Setup Migration
+category: Database
+company: TechnoSense NextGen Solutions Pvt Limited
+---
 
-## Service Category
-
-**Category:** Database Management  
-**Service:** Server Setup & Migration  
-**Provider:** TechnoSense NextGen Solutions Pvt Limited  
-**Primary Database Technology:** Oracle Database
 
 ## Overview
 
@@ -87,7 +86,6 @@ The exact migration methodology is dependent on the source and target environmen
 Server Setup & Migration and Oracle Database Installation are related but distinct services.
 
 | Service | Primary Purpose |
-|---|---|
 | Server Setup & Migration | Prepare database server environments and support database movement |
 | Oracle Database Installation | Install and establish the Oracle database environment |
 | Version Upgrades | Upgrade an existing database environment |
