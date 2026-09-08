@@ -1,15 +1,11 @@
 import os
-
 from dotenv import load_dotenv
 from langchain_aws import BedrockEmbeddings, ChatBedrock
 from langchain_pinecone import PineconeVectorStore
 
 load_dotenv()
 
-
-# ============================================================
 # 1. CONFIGURATION
-# ============================================================
 
 INDEX_NAME = os.environ["INDEX_NAME"]
 
@@ -17,15 +13,12 @@ REGION_NAME = "us-east-1"
 
 EMBEDDING_MODEL = "amazon.titan-embed-text-v2:0"
 
-# Change this to the Bedrock model you have access to
 LLM_MODEL = "amazon.nova-lite-v1:0"
 
 TOP_K = 5
 
 
-# ============================================================
 # 2. INITIALIZE EMBEDDINGS
-# ============================================================
 
 print("Initializing Bedrock embeddings...")
 
@@ -35,9 +28,7 @@ embeddings = BedrockEmbeddings(
 )
 
 
-# ============================================================
 # 3. CONNECT TO PINECONE
-# ============================================================
 
 print("Connecting to Pinecone...")
 
@@ -49,9 +40,7 @@ vector_store = PineconeVectorStore(
 print("Connected to Pinecone successfully!")
 
 
-# ============================================================
 # 4. INITIALIZE BEDROCK LLM
-# ============================================================
 
 print("Initializing Bedrock LLM...")
 
@@ -66,9 +55,7 @@ llm = ChatBedrock(
 print("Bedrock LLM initialized successfully!")
 
 
-# ============================================================
 # 5. RETRIEVE RELEVANT DOCUMENTS
-# ============================================================
 
 def retrieve_documents(query):
 
@@ -80,9 +67,8 @@ def retrieve_documents(query):
     return results
 
 
-# ============================================================
+
 # 6. BUILD CONTEXT FROM RETRIEVED DOCUMENTS
-# ============================================================
 
 def build_context(results):
 
@@ -131,53 +117,52 @@ def build_context(results):
     return "\n\n".join(context_parts)
 
 
-# ============================================================
+
 # 7. CREATE RAG PROMPT
-# ============================================================
 
 def create_prompt(query, context):
 
     prompt = f"""
-You are the TechnoSense AI Assistant answer the user query like a production grade chatbot.
+    You are the TechnoSense AI Assistant answer the user query like a production grade chatbot.
 
-Your task is to answer the user's question using ONLY
-the information provided in the CONTEXT below.
+    Your task is to answer the user's question using ONLY
+    the information provided in the CONTEXT below.
 
-IMPORTANT RULES:
+    IMPORTANT RULES:
 
-1. Do not use outside knowledge.
-2. Do not make up or hallucinate information.
-3. If the answer cannot be found in the context, clearly say:
-   "I don't have enough information in my knowledge base to answer that."
-4. Keep the answer concise, accurate and relevant to the question.
-5. Do not mention the internal retrieval process.
-6. When appropriate, organize the answer using bullet points.
-7. Do not unnecessarily repeat the same information.
-8. Use the source information to understand where the answer came from.
+    1. Do not use outside knowledge.
+    2. Do not make up or hallucinate information.
+    3. If the answer cannot be found in the context, clearly say:
+        "I don't have enough information in my knowledge base to answer that."
+    4. Keep the answer concise, accurate and relevant to the question.
+    5. Do not mention the internal retrieval process.
+    6. When appropriate, organize the answer using bullet points.
+    7. Do not unnecessarily repeat the same information.
+    8. Use the source information to understand where the answer came from.
+    9. Most importantly don't mention to user that for more information refer to so and so document at the end of response.
 
-==================================================
-CONTEXT
-==================================================
+    ==================================================
+    CONTEXT
+    ==================================================
 
-{context}
+    {context}
 
-==================================================
-USER QUESTION
-==================================================
+    ==================================================
+    USER QUESTION
+    ==================================================
 
-{query}
+    {query}
 
-==================================================
-ANSWER
-==================================================
-"""
+    ==================================================
+    ANSWER
+    ==================================================
+    """
 
     return prompt
 
 
-# ============================================================
+
 # 8. GENERATE ANSWER
-# ============================================================
 
 def generate_answer(query):
 
