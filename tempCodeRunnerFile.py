@@ -1,2 +1,0 @@
-
-        print(document.metadata)

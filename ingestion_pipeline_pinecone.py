@@ -198,30 +198,6 @@ texts = text_splitter.split_documents(documents)
 
 print(f"Created {len(texts)} chunks.")
 
-
-# ============================================================
-# 7. VERIFY CHUNK METADATA
-# ============================================================
-
-# print("\n========================================")
-# print("Checking sample chunk...")
-# print("========================================")
-
-# if texts:
-
-#     print("\nChunk content:")
-#     print("----------------------------------------")
-
-#     print(texts[0].page_content[:500])
-
-#     print("\nChunk metadata:")
-#     print("----------------------------------------")
-
-#     for key, value in texts[0].metadata.items():
-
-#         print(f"{key}: {value}")
-
-
 # ============================================================
 # 8. INITIALIZE BEDROCK EMBEDDINGS
 # ============================================================
