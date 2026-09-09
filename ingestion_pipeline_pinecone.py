@@ -10,18 +10,15 @@ from langchain_pinecone import PineconeVectorStore
 load_dotenv()
 
 
-# ============================================================
 # 1. CONFIGURATION
-# ============================================================
+
 
 KNOWLEDGE_BASE_DIR = "D:/TechnoSense RAG Chatbot"
 
 INDEX_NAME = os.environ["INDEX_NAME"]
 
 
-# ============================================================
 # 2. READ MARKDOWN FILE + EXTRACT YAML FRONT MATTER
-# ============================================================
 
 def load_markdown_file(file_path):
     """
@@ -86,9 +83,8 @@ def load_markdown_file(file_path):
     return markdown_content, metadata
 
 
-# ============================================================
+
 # 3. FIND ALL MARKDOWN FILES
-# ============================================================
 
 print("========================================")
 print("Searching for Markdown documents...")
@@ -110,9 +106,8 @@ for root, dirs, files in os.walk(KNOWLEDGE_BASE_DIR):
 print(f"Found {len(md_files)} Markdown documents.\n")
 
 
-# ============================================================
+
 # 4. LOAD ALL MARKDOWN DOCUMENTS
-# ============================================================
 
 documents = []
 
@@ -157,9 +152,7 @@ for file_path in md_files:
 print(f"\nTotal documents loaded: {len(documents)}")
 
 
-# ============================================================
 # 5. DISPLAY DOCUMENT METADATA
-# ============================================================
 
 print("\n========================================")
 print("Checking document metadata...")
@@ -180,9 +173,8 @@ if documents:
         print(f"{key}: {value}")
 
 
-# ============================================================
+
 # 6. SPLIT DOCUMENTS INTO CHUNKS
-# ============================================================
 
 print("\n========================================")
 print("Splitting documents...")
@@ -198,9 +190,8 @@ texts = text_splitter.split_documents(documents)
 
 print(f"Created {len(texts)} chunks.")
 
-# ============================================================
+
 # 8. INITIALIZE BEDROCK EMBEDDINGS
-# ============================================================
 
 print("\n========================================")
 print("Initializing Bedrock embeddings...")
@@ -212,9 +203,8 @@ embeddings = BedrockEmbeddings(
 )
 
 
-# ============================================================
+
 # 9. STORE CHUNKS + METADATA IN PINECONE
-# ============================================================
 
 print("\n========================================")
 print("Initializing Pinecone vector store...")
@@ -227,9 +217,7 @@ PineconeVectorStore.from_documents(
 )
 
 
-# ============================================================
 # 10. COMPLETED
-# ============================================================
 
 print("\n========================================")
 print("Ingestion completed successfully!")
