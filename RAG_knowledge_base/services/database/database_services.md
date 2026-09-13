@@ -5,8 +5,6 @@ category: Database
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
-
-
 ## Overview
 
 TechnoSense provides database management services focused on the installation, upgrading, migration, and ongoing management of Oracle database environments.

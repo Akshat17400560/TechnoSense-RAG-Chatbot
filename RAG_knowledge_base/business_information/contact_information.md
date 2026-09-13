@@ -32,7 +32,6 @@ The official website provides this email address for contacting TechnoSense.
 # Contact Information Summary
 
 | Contact Type | Information |
-|||
 | Company | TechnoSense NextGen Solutions Pvt Limited |
 | Address | 48, 7th Floor, ETT Tower - 2B-36, Sector 132, Noida |
 | Phone | +91-9911191139 |

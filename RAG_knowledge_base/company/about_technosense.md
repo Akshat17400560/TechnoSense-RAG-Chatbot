@@ -204,6 +204,7 @@ TechnoSense maintains technology alliances with organizations identified on its 
 - Microsoft
 - Redington
 - Fortinet
+- Nutanix
 
 These partnerships support the company's ability to provide solutions across cloud, infrastructure, security, and enterprise technology environments.
 

@@ -340,10 +340,11 @@ TechnoSense's official website displays the following organizations in its **Tru
 - Microsoft
 - Redington
 - Fortinet
+- Nutanix
 
 AWS is specifically displayed as **AWS Partner**.
 
-Microsoft, Redington, and Fortinet are displayed in the Trusted Alliances section.
+Microsoft, Redington, Fortinet and Nutanix are displayed in the Trusted Alliances section.
 
 
 

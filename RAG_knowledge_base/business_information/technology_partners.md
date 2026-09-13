@@ -17,6 +17,7 @@ The technology organizations displayed in this section are:
 - Microsoft
 - Redington
 - Fortinet
+- Nutanix
 
 These are the technology alliances explicitly presented by TechnoSense on its official website.
 
@@ -168,43 +169,52 @@ The RAG system should therefore state that **Fortinet is listed as a trusted all
 
 
 
+# Nutanix
+
+**Nutanix** is also displayed in TechnoSense's Trusted Alliances section.
+
+Nutanix is an enterprise cloud computing and hyperconverged infrastructure technology company, and its presence in the Trusted Alliances section is relevant to TechnoSense's broader infrastructure, cloud, and digital-transformation services portfolio.
+
+TechnoSense separately offers infrastructure and cloud-related services, including infrastructure management, platform migration, cloud consulting, cloud strategy, and cloud migration.
+
+However, the published TechnoSense material does not specify the exact Nutanix products, certifications, partner tier, or deployment responsibilities associated with the relationship.
+
+### RAG Interpretation
+
+```text
+TechnoSense
+
+     │
+
+     ↓
+
+Trusted Alliance
+
+     │
+
+     ↓
+
+Nutanix
+
+     │
+
+     ↓
+
+Enterprise Cloud / Hyperconverged Infrastructure Context
+```
+
+The RAG system should therefore state that **Nutanix is listed as a trusted alliance**, without inventing a specific Nutanix partnership level, certification status, product specialization, or implementation responsibility.
+
 # Trusted Alliances Summary
 
 | Organization | Published Relationship | Related TechnoSense Context |
-||||
 | AWS | AWS Partner | Cloud & DevOps |
 | Microsoft | Trusted Alliance | Microsoft 365 / O365 |
 | Redington | Trusted Alliance | Technology ecosystem |
 | Fortinet | Trusted Alliance | Security / Network Security |
+| Nutanix | Trusted Alliance | Hybrid Cloud Provider |
 
-The relationship terminology differs slightly in the published material: AWS is specifically shown as **“AWS Partner”**, while Microsoft, Redington, and Fortinet appear as organizations in the **Trusted alliances** section.
-
-
-
-# Relationship With TechnoSense Services
-
-The published alliances provide technology context for several TechnoSense service areas.
-
-```text
-                    TechnoSense
-                        │
-             ┌──────────┴──────────┐
-             ↓                     ↓
-       Trusted Alliances       IT Services
-             │                     │
-     ┌───────┼────────┐            │
-     ↓       ↓        ↓            │
-    AWS  Microsoft  Fortinet       │
-     │       │        │            │
-     ↓       ↓        ↓            │
-   Cloud   O365    Security         │
-             │                     │
-             └──────────┬──────────┘
-                        ↓
-                Customer Solutions
-```
-
-Redington is also part of the published trusted-alliance list, but the available source does not establish a specific one-to-one mapping between Redington and an individual TechnoSense service.
+The relationship terminology differs slightly in the published material: AWS is specifically shown as **“AWS Partner”**, while Microsoft, Redington, Fortinet and Nutanix appear as organizations in the **Trusted alliances** section.
 
 
 
@@ -317,26 +327,10 @@ TechnoSense Trusted Alliances:
 
 4. Fortinet
    Relationship: Trusted Alliance
+
+4. Nutanix
+   Relationship: Trusted Alliance
 ```
-
-## Related Service Context
-
-```text
-AWS
- └── Cloud / DevOps
-
-Microsoft
- └── Microsoft 365 / O365
-
-Fortinet
- └── Security / Network Security
-
-Redington
- └── Technology Ecosystem
-```
-
-The service relationships shown above are contextual and should not be interpreted as exclusive vendor-service mappings.
-
 
 # Supported RAG Queries
 
@@ -368,6 +362,7 @@ The following relationships are explicitly supported by the TechnoSense website:
 - **Microsoft — Trusted Alliance**
 - **Redington — Trusted Alliance**
 - **Fortinet — Trusted Alliance**
+- **Nutanix — Trusted Alliance**
 
 The published material does **not** establish:
 
@@ -404,20 +399,9 @@ The official TechnoSense homepage contains the **Trusted alliances** section and
 - Microsoft
 - Redington
 - Fortinet
+- Nutanix
 
 It describes these organizations as technology leaders with whom TechnoSense collaborates to deliver secure, scalable, enterprise-grade outcomes.
-
-## Related Source – Microsoft O365 Services
-
-TechnoSense's Microsoft O365 page establishes Microsoft's importance within the company's service portfolio, covering licensing, migration, security, and mobile device management.
-
-## Related Source – Cloud Services
-
-TechnoSense's Cloud Implementation & Migration and Cloud Strategy pages provide context for the company's cloud-service capabilities.
-
-## Related Source – Security Services
-
-TechnoSense's Security Solutions page provides context for its Microsoft 365 security capabilities, while the homepage identifies Fortinet among its trusted alliances.
 
 
 # Document Scope
@@ -432,6 +416,3 @@ Its primary purpose is to allow the RAG assistant to accurately answer questions
 - Service offerings
 - Products and platforms
 
-Only AWS, Microsoft, Redington, and Fortinet should currently be treated as the organizations explicitly displayed in TechnoSense's **Trusted alliances** section.
-
-Additional partnerships should only be added when supported by authoritative TechnoSense documentation.

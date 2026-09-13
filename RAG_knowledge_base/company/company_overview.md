@@ -119,6 +119,7 @@ TechnoSense's website identifies relationships with technology organizations inc
 - Microsoft
 - Redington
 - Fortinet
+- Nutanix
 
 These relationships are presented on the company's website as trusted alliances.
 

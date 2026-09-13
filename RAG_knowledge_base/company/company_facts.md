@@ -102,6 +102,7 @@ The TechnoSense website identifies the following organizations under its "Truste
 - Microsoft
 - Redington
 - Fortinet
+- Nutanix
 
 The website describes these relationships as technology alliances supporting secure, scalable, and enterprise-grade outcomes.
 
@@ -114,6 +115,7 @@ The TechnoSense homepage displays the following organizations in its client sect
 - Airtel
 - Altuis
 - Britannia
+- Crazy Brain
 
 These organizations are displayed as client logos on the company's website.
 

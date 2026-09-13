@@ -22,7 +22,7 @@ TechnoSense states that it hires professionals across multiple technology and bu
 
 The roles explicitly listed on the company's Careers page include:
 
-- Software Developers
+- Software Developers(Java, .NET, PHP, Full Stack)
 - Cloud & DevOps Engineers
 - Database Administrators
 - Network & Infrastructure Specialists
