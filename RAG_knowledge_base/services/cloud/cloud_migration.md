@@ -191,33 +191,6 @@ This indicates that minimizing disruption is an important consideration during i
 
 However, **"close to zero downtime" should not be interpreted as a guaranteed zero-downtime SLA**. Actual downtime depends on the specific migration architecture, workloads, dependencies, implementation approach, and engagement requirements.
 
-## Cloud Migration Service Flow
-
-A simplified representation of the TechnoSense cloud implementation and migration process is:
-
-```text
-Business & Technology Requirements
-              ↓
-Pre-Implementation Assessment
-              ↓
-Gap Analysis & Infrastructure Assessment
-              ↓
-Roadmap Design
-              ↓
-Functional Solution Design
-              ↓
-Cloud Setup / Implementation
-              ↓
-Data Conversion & Migration
-              ↓
-Testing & Validation
-              ↓
-Documentation & Training
-              ↓
-Rollout
-              ↓
-Post-Migration Support & Maintenance
-```
 
 ## Relationship with Cloud Adoption Strategy
 
@@ -283,7 +256,7 @@ TechnoSense's Cloud Implementation & Migration service is intended to help organ
 - Support successful rollout
 - Continue receiving support after migration
 
-## RAG Retrieval Notes
+## Supported query topics
 
 Retrieve this document for questions involving:
 
@@ -343,17 +316,3 @@ Do not infer:
 unless those capabilities are explicitly documented elsewhere in the TechnoSense knowledge base.
 
 The public service description establishes that TechnoSense supports cloud implementation and on-premises-to-cloud migration, but it does not provide enough information to determine the exact technical architecture or tools used for every migration.
-
-## Source Information
-
-**Primary source:** TechnoSense NextGen Solutions official website
-
-**Source URL:** https://technosense.in/implementation-migration.html
-
-**Parent service:** Cloud Consulting
-
-**Related service:** Cloud Adoption Strategy
-
-**Related infrastructure service:** Infrastructure Management
-
-**Source scope:** Publicly available information describing TechnoSense's customized cloud solutions, scalable deployments, implementation and migration services, on-premises-to-cloud migration, documentation, testing, training, rollout, and post-migration support.

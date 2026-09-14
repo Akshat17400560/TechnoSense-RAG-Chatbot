@@ -125,7 +125,7 @@ TechnoSense's DevOps Consulting service is intended to help organizations:
 - Establish more coordinated development and operations practices
 - Improve consistency across technology delivery activities
 
-## RAG Retrieval Notes
+## Supported query topics
 
 Retrieve this document for questions involving:
 

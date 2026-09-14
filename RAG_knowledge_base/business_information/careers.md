@@ -126,7 +126,7 @@ The careers page does not specify the exact support technologies, shifts, job le
 
 
 
-# Why Work With TechnoSense?
+# Why should work with TechnoSense?
 
 TechnoSense highlights several reasons for professionals to consider working with the company.
 
@@ -141,7 +141,6 @@ The company states that employees can access:
 The stated objective is to provide opportunities for employees to develop their skills while working on technology projects.
 
 
-
 ## 2. Innovative Work Environment
 
 TechnoSense describes its work environment as one that encourages:
@@ -151,7 +150,6 @@ TechnoSense describes its work environment as one that encourages:
 - Problem-solving
 
 The company positions innovation and creative thinking as part of its workplace culture.
-
 
 
 ## 3. Global Exposure
@@ -165,7 +163,6 @@ TechnoSense states that employees can work with:
 The company therefore presents global project exposure as one of the potential aspects of working at TechnoSense.
 
 
-
 ## 4. Work-Life Balance
 
 TechnoSense describes its workplace as providing:
@@ -175,7 +172,6 @@ TechnoSense describes its workplace as providing:
 - Employee-friendly policies
 
 The company presents work-life balance as one of the benefits of its working environment.
-
 
 
 ## 5. Career Advancement
@@ -208,7 +204,6 @@ Career Advancement
 ```
 
 The company describes these elements as part of the experience it aims to provide to its employees.
-
 
 
 # Application Process
@@ -270,104 +265,6 @@ All of the roles and technologies in this table are based on the company's Caree
 
 
 
-# Relationship With TechnoSense Services
-
-The career areas broadly correspond with TechnoSense's technology service portfolio.
-
-```text
-TechnoSense Careers
-        │
-        ├── Software Development
-        │       ↓
-        │   Development Services
-        │
-        ├── Cloud & DevOps
-        │       ↓
-        │   Cloud Services
-        │
-        ├── Database Administration
-        │       ↓
-        │   Database Services
-        │
-        ├── Network & Infrastructure
-        │       ↓
-        │   Infrastructure Services
-        │
-        ├── QA & Testing
-        │
-        ├── Project Management
-        │
-        ├── Business Analysis
-        │
-        └── Support & Managed Services
-                ↓
-          IT Support Services
-```
-
-This is a conceptual relationship between the company's hiring areas and service portfolio. It should not be interpreted as a one-to-one organizational structure.
-
-
-
-# RAG Knowledge Representation
-
-## Career Identity
-
-```text
-Organization:
-TechnoSense NextGen Solutions Pvt Limited
-
-Career Contact:
-info@technosense.in
-
-Career Focus:
-Technology and IT professionals
-```
-
-## Explicit Hiring Areas
-
-```text
-Software Developers:
-- Java
-- .NET
-- PHP
-- Full Stack
-
-Engineering:
-- Cloud
-- DevOps
-
-Database:
-- Database Administrators
-
-Infrastructure:
-- Network & Infrastructure Specialists
-
-Quality:
-- QA & Testing Professionals
-
-Business / Management:
-- Project Managers
-- Business Analysts
-
-Operations:
-- Support & Managed Services Teams
-```
-
-## Published Employee Benefits / Workplace Themes
-
-```text
-- Growth & Learning
-- Challenging Projects
-- Mentorship
-- Continuous Skill Development
-- Innovative Work Environment
-- Global Exposure
-- Work-Life Balance
-- Career Advancement
-```
-
-
-
 # Supported RAG Queries
 
 This document should enable the RAG system to answer questions such as:
@@ -393,7 +290,6 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense hire support and managed-services professionals?
 - What benefits does TechnoSense offer employees?
 - Does TechnoSense provide career growth opportunities?
-- Does TechnoSense offer mentorship?
 - Does TechnoSense provide global exposure?
 - What is TechnoSense's work culture like?
 - How do I submit my resume to TechnoSense?
@@ -435,7 +331,6 @@ The published Careers page does **not** specify:
 The RAG system must not invent these details.
 
 In particular, the presence of a role in the **"We Hire For"** section should be interpreted as a hiring area identified by TechnoSense, not necessarily as confirmation that there is a current vacancy for that role.
-
 
 
 # Source References

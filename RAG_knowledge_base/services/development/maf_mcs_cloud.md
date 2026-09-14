@@ -108,20 +108,6 @@ MAF & MCS Cloud can be relevant for organizations requiring:
 
 The suitability of the technology depends on the organization's application requirements, existing Oracle environment, integration needs, and target architecture.
 
-## RAG Retrieval Notes
-
-Retrieve this document for questions involving:
-
-- TechnoSense MAF services
-- Oracle MAF
-- Oracle Mobile Application Framework
-- TechnoSense MCS services
-- Oracle Mobile Cloud Service
-- MAF & MCS Cloud
-- Oracle mobile application development
-- Backend integration with MCS
-- Enterprise mobility enablement
-- Oracle mobile backend
 
 ### Preferred Retrieval
 

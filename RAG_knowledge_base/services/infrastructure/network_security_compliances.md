@@ -131,10 +131,3 @@ Retrieve this document for questions involving:
 - Security monitoring
 - IT environment security
 
-### Important Retrieval Boundaries
-
-Do not infer specific security products, vendors, certifications, compliance guarantees, audit results, security frameworks, or implementation technologies unless they are explicitly documented in the knowledge base.
-
-The references to ISO, GDPR, and PCI-DSS indicate that these frameworks are part of TechnoSense's stated compliance-management offering. They should not be interpreted as evidence that TechnoSense itself holds a specific certification or that every client environment is automatically compliant.
-
-Similarly, the public service description does not specify particular firewall, IDS/IPS, endpoint, encryption, vulnerability-scanning, or backup products.

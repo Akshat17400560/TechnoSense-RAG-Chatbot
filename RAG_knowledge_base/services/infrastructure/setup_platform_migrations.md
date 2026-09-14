@@ -109,9 +109,4 @@ Retrieve this document for questions involving:
 - Migration support
 - Post-migration maintenance
 
-### Important Retrieval Boundary
-
-Do not infer that TechnoSense supports a specific cloud provider, migration tool, migration framework, operating system, database, workload type, or migration methodology unless that capability is explicitly documented elsewhere in the knowledge base.
-
-Do not interpret the company's statement about "close to zero downtime" as a guaranteed zero-downtime SLA.
 

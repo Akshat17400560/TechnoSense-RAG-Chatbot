@@ -22,8 +22,7 @@ The technology organizations displayed in this section are:
 These are the technology alliances explicitly presented by TechnoSense on its official website.
 
 
-
-# Trusted Alliances
+# Trusted Alliances Of Technosense
 
 ## AWS
 
@@ -42,23 +41,6 @@ However, the publicly available TechnoSense material does not specify:
 - Partner program benefits
 - Partnership duration
 - Specific AWS customer projects
-
-These details should not be inferred.
-
-### RAG Interpretation
-
-```text
-TechnoSense
-     │
-     ↓
-Trusted Alliance
-     │
-     ↓
-AWS Partner
-```
-
-The correct company-specific answer is that TechnoSense publicly identifies itself as an **AWS Partner**.
-
 
 
 # Microsoft
@@ -85,23 +67,6 @@ The publicly available material does not specify:
 - Partnership duration
 - Specific Microsoft products covered by the alliance
 
-These details should not be assumed.
-
-### RAG Interpretation
-
-```text
-TechnoSense
-     │
-     ↓
-Trusted Alliance
-     │
-     ↓
-Microsoft
-     │
-     ↓
-Microsoft 365 Services
-```
-
 
 
 # Redington
@@ -122,23 +87,6 @@ The available source material does not establish:
 - Partnership duration
 - Specific products supplied through Redington
 
-These details should not be inferred.
-
-### RAG Interpretation
-
-```text
-TechnoSense
-     │
-     ↓
-Trusted Alliance
-     │
-     ↓
-Redington
-```
-
-The safe company-specific answer is that **Redington is listed by TechnoSense as a trusted alliance**.
-
-
 
 # Fortinet
 
@@ -149,24 +97,6 @@ Fortinet is a cybersecurity technology company, and its presence in the Trusted 
 TechnoSense separately offers infrastructure and network-security services, including Network Security & Compliances.
 
 However, the published TechnoSense material does not specify the exact Fortinet products, certifications, partner tier, or deployment responsibilities associated with the relationship.
-
-### RAG Interpretation
-
-```text
-TechnoSense
-     │
-     ↓
-Trusted Alliance
-     │
-     ↓
-Fortinet
-     │
-     ↓
-Security / Network Technology Context
-```
-
-The RAG system should therefore state that **Fortinet is listed as a trusted alliance**, without inventing a specific Fortinet partnership level or product specialization.
-
 
 
 # Nutanix
@@ -179,31 +109,7 @@ TechnoSense separately offers infrastructure and cloud-related services, includi
 
 However, the published TechnoSense material does not specify the exact Nutanix products, certifications, partner tier, or deployment responsibilities associated with the relationship.
 
-### RAG Interpretation
 
-```text
-TechnoSense
-
-     │
-
-     ↓
-
-Trusted Alliance
-
-     │
-
-     ↓
-
-Nutanix
-
-     │
-
-     ↓
-
-Enterprise Cloud / Hyperconverged Infrastructure Context
-```
-
-The RAG system should therefore state that **Nutanix is listed as a trusted alliance**, without inventing a specific Nutanix partnership level, certification status, product specialization, or implementation responsibility.
 
 # Trusted Alliances Summary
 
@@ -217,120 +123,6 @@ The RAG system should therefore state that **Nutanix is listed as a trusted alli
 The relationship terminology differs slightly in the published material: AWS is specifically shown as **“AWS Partner”**, while Microsoft, Redington, Fortinet and Nutanix appear as organizations in the **Trusted alliances** section.
 
 
-
-# AWS and Cloud Services
-
-TechnoSense provides several cloud-related services:
-
-- Cloud Consulting
-- Cloud Adoption Strategy
-- Cloud Implementation & Migration
-- DevOps
-
-The company describes its cloud services as helping organizations develop cloud strategies, implement cloud solutions, migrate from on-premises environments, and establish supporting DevOps capabilities.
-
-Because AWS is explicitly displayed as an AWS Partner, AWS is an important part of the company's published technology-partner context.
-
-However, the RAG system should not automatically answer that **all** TechnoSense cloud projects use AWS.
-
-The specific cloud platform used for a customer engagement should only be stated when supported by the relevant project or service source.
-
-
-
-# Microsoft and Microsoft 365 Services
-
-TechnoSense has a dedicated Microsoft O365 service offering.
-
-The published Microsoft O365 service includes:
-
-- O365 Licensing & Setup
-- Security Solutions
-- Mobile Devices Management
-
-The licensing and setup service also describes capabilities including tenant and account setup, migration, security and compliance configuration, application deployment, and user onboarding.
-
-Therefore, Microsoft is both:
-
-1. A published trusted alliance.
-2. A major technology platform within TechnoSense's service portfolio.
-
-
-
-# Fortinet and Security Services
-
-Fortinet appears in TechnoSense's Trusted Alliances section.
-
-This is relevant to TechnoSense's broader security and infrastructure portfolio.
-
-TechnoSense offers Network Security & Compliances as part of its Infrastructure Management services.
-
-The company also provides Microsoft 365 Security Solutions covering areas such as:
-
-- Identity and access protection
-- Email security
-- Data Loss Prevention
-- Device and endpoint security
-- Information protection
-- Security monitoring and reporting
-
-However, these Microsoft 365 security services should **not** automatically be attributed to Fortinet.
-
-The presence of Fortinet in the Trusted Alliances section does not establish that Fortinet products are used in every TechnoSense security implementation.
-
-
-
-# Technology Partner vs Technology Expertise
-
-The RAG system must distinguish between **technology partnerships** and **technology expertise**.
-
-For example:
-
-```text
-Technology Partner
-       ↓
-Explicitly identified by TechnoSense
-       ↓
-AWS / Microsoft / Redington / Fortinet
-```
-
-Whereas:
-
-```text
-Technology Expertise
-       ↓
-Technology used or supported by TechnoSense
-       ↓
-Oracle / APEX / ADF / Database / etc.
-```
-
-A technology appearing in TechnoSense's service portfolio does not automatically mean that the company has a formal partnership with that technology vendor.
-
-This distinction is important for accurate company-specific RAG responses.
-
-
-
-# RAG Knowledge Representation
-
-## Trusted Alliances
-
-```text
-TechnoSense Trusted Alliances:
-
-1. AWS
-   Relationship: AWS Partner
-
-2. Microsoft
-   Relationship: Trusted Alliance
-
-3. Redington
-   Relationship: Trusted Alliance
-
-4. Fortinet
-   Relationship: Trusted Alliance
-
-4. Nutanix
-   Relationship: Trusted Alliance
-```
 
 # Supported RAG Queries
 

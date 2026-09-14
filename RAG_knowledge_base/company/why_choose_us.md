@@ -173,7 +173,7 @@ Its cloud, infrastructure, application, database, and enterprise mobility servic
 
 ## Technology Alliances
 
-TechnoSense identifies AWS, Microsoft, Redington, and Fortinet as trusted technology alliances.
+TechnoSense identifies AWS, Microsoft, Redington, Fortinet and Nutanix as trusted technology alliances.
 
 These relationships support the company's technology capabilities across cloud, enterprise software, infrastructure, and security environments.
 
@@ -209,17 +209,6 @@ Based on the company's stated positioning, key reasons to consider TechnoSense i
 - Focus on scalability and future growth
 - Business-oriented technology planning
 
-## Important RAG Interpretation
-
-The reasons and differentiators in this document represent **TechnoSense's own positioning and value propositions as presented on its public website**.
-
-The assistant should therefore use appropriate attribution when answering questions about why a customer should choose TechnoSense.
-
-For example:
-
-> "According to TechnoSense, the company differentiates itself through..."
-
-rather than presenting subjective marketing claims as independently verified facts.
 
 ## Related Knowledge Documents
 
@@ -231,32 +220,3 @@ For additional information, refer to:
 - `company/service_delivery_process.md` — Service delivery methodology
 - `business_information/technology_partners.md` — Technology partnerships
 - `services/` — Detailed service-specific capabilities
-
-## Source
-
-Primary source: TechnoSense official website
-
-Website:
-https://technosense.in/
-
-About Us:
-https://technosense.in/about-us.html
-
-Last reviewed: 2026-08-29
-
-## RAG Usage Notes
-
-This document should be used for questions concerning TechnoSense's value proposition, differentiators, customer benefits, technology breadth, engagement flexibility, and overall reasons for choosing the company.
-
-Examples of questions that may retrieve this document include:
-
-- "Why should I choose TechnoSense?"
-- "What makes TechnoSense different?"
-- "What are TechnoSense's strengths?"
-- "What benefits does TechnoSense provide?"
-- "Does TechnoSense offer end-to-end IT services?"
-- "Does TechnoSense provide customized solutions?"
-- "Does TechnoSense offer onsite and offshore resources?"
-- "What makes TechnoSense suitable for digital transformation?"
-
-For questions asking for specific technical capabilities, the assistant should prefer the relevant service-specific document when available.

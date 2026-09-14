@@ -45,7 +45,7 @@ We enable organizations to quickly scale their technology teams up or down based
 
 
 
-# Supported RAG Queries
+# Supported Query topics
 
 This document should enable the RAG system to answer questions such as:
 
@@ -63,7 +63,6 @@ This document should enable the RAG system to answer questions such as:
 - Can resource placement support security projects?
 - Can resource placement support DevOps initiatives?
 - When should an organization consider TechnoSense Resource Placement?
-
 
 
 # Important Answer Boundaries

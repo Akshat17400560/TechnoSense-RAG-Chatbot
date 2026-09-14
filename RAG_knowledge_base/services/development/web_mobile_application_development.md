@@ -97,7 +97,7 @@ The service can be relevant to organizations that need:
 
 The appropriate development approach depends on the organization's business, functional, technical, security, and operational requirements.
 
-## RAG Retrieval Notes
+## Supported query topics
 
 Retrieve this document for questions involving:
 

@@ -40,7 +40,6 @@ Following the upgrade, we perform comprehensive validation to confirm that the d
 
 
 
-
 # When This Service Is Relevant
 
 The Version Upgrades service is relevant when an organization:
@@ -70,16 +69,7 @@ Provides ongoing operational support after database deployment or upgrade.
 
 Provides broader infrastructure management capabilities that may support the environment in which database systems operate.
 
-## RAG Knowledge Representation
 
-### Service Identity
-
-```text
-Service Name: Version Upgrades
-Category: Database Management
-Technology: Oracle Database
-Provider: TechnoSense NextGen Solutions Pvt Limited
-```
 
 ### Supported Queries
 

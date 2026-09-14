@@ -236,25 +236,7 @@ TechnoSense's Development Services are intended to help organizations:
 | Application modernization | Relevant detailed development document |
 | Application maintenance | `development_services.md` + relevant service document |
 
-## RAG Retrieval Notes
 
-Retrieve this document for broad questions involving:
-
-- TechnoSense development services
-- Application development
-- Software development
-- Web development
-- Mobile development
-- Business application development
-- Application modernization
-- Application support
-- Development services
-
-For technology-specific questions, prefer the corresponding detailed document:
-
-- Oracle APEX → `oracle_apex.md`
-- Web & mobile development → `web_mobile_application_development.md`
-- MAF & MCS Cloud → `maf_mcs_cloud.md`
 
 ### Important Retrieval Boundaries
 

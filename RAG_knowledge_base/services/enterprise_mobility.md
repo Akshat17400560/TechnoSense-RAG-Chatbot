@@ -66,7 +66,6 @@ Enterprise mobility initiatives generally aim to help organizations:
 These are general enterprise-mobility objectives and should not be represented as quantified or guaranteed outcomes of TechnoSense's service.
 
 
-
 # When Enterprise Mobility Is Relevant
 
 Enterprise Mobility Solutions may be relevant when an organization:
@@ -83,8 +82,7 @@ The exact service scope should be determined from the customer's requirements.
 
 
 
-
-# Supported RAG Queries
+# Supported query topics
 
 This document should enable the RAG system to answer questions such as:
 

@@ -195,7 +195,7 @@ TechnoSense's Cloud Adoption Strategy service is intended to help organizations:
 - Evaluate expected ROI
 - Establish a roadmap for cloud adoption and implementation
 
-## RAG Retrieval Notes
+## Supported query topics
 
 Retrieve this document for questions involving:
 
@@ -238,14 +238,3 @@ Do not infer:
 
 unless those details are explicitly documented elsewhere in the TechnoSense knowledge base.
 
-## Source Information
-
-**Primary source:** TechnoSense NextGen Solutions official website
-
-**Source URL:** https://technosense.in/cloud-adoption-strategy.html
-
-**Parent service:** Cloud Consulting
-
-**Related service:** Cloud Implementation & Migration
-
-**Source scope:** Publicly available information describing TechnoSense's Cloud Adoption Strategy, cloud roadmap development, cloud solution selection, infrastructure and manpower considerations, future expansion planning, investment, and ROI considerations.

@@ -125,44 +125,6 @@ The public Cloud Consulting overview does not provide sufficient detail to attri
 
 Such technologies should only be documented when explicitly supported by dedicated TechnoSense source material.
 
-## Cloud Service Lifecycle
-
-TechnoSense's cloud services can be understood across several stages:
-
-### 1. Strategy
-
-- Understand business requirements
-- Develop cloud adoption strategy
-- Assess existing infrastructure
-- Consider future expansion
-- Develop a cloud roadmap
-
-### 2. Solution Design
-
-- Select appropriate cloud solutions
-- Design the target solution
-- Align the solution with organizational requirements
-- Consider investment and expected ROI
-
-### 3. Implementation
-
-- Deploy the cloud environment
-- Configure the required solution
-- Perform data conversion and testing
-- Establish the required operational environment
-
-### 4. Migration
-
-- Transition on-premises solutions to cloud environments
-- Support the migration process
-- Provide documentation and manuals
-- Train relevant staff
-
-### 5. Operations and Support
-
-- Provide ongoing support and maintenance
-- Support the implemented cloud environment
-- Perform upgrades and enhancements where applicable
 
 ## Business Benefits
 
@@ -212,7 +174,7 @@ Cloud Consulting should therefore be treated as a separate service category from
 
 **Related service category:** `services/development/`
 
-## RAG Retrieval Notes
+## Supported query topics
 
 Retrieve this document for broad questions involving:
 
@@ -248,12 +210,3 @@ Do not infer specific cloud providers, cloud services, DevOps tools, CI/CD platf
 
 Do not interpret general claims about cloud performance, scalability, cost optimization, or ROI as guaranteed outcomes for every customer engagement.
 
-## Source Information
-
-**Primary source:** TechnoSense NextGen Solutions official website
-
-**Source URL:** https://technosense.in/cloud-consulting.html
-
-**Related source:** https://technosense.in/
-
-**Source scope:** Publicly available information describing TechnoSense Cloud Consulting, Cloud Adoption Strategy, Cloud Implementation & Migration, and DevOps Consulting services.
