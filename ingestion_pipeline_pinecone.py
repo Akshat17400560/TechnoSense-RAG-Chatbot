@@ -181,8 +181,8 @@ print("Splitting documents...")
 print("========================================")
 
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=4000,
-    chunk_overlap=150
+    chunk_size=3000,
+    chunk_overlap=500
 )
 
 texts = text_splitter.split_documents(documents)

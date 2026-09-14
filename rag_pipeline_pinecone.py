@@ -20,8 +20,6 @@ TOP_K = 5
 
 # 2. INITIALIZE EMBEDDINGS
 
-print("Initializing Bedrock embeddings...")
-
 embeddings = BedrockEmbeddings(
     model_id=EMBEDDING_MODEL,
     region_name=REGION_NAME
@@ -30,19 +28,13 @@ embeddings = BedrockEmbeddings(
 
 # 3. CONNECT TO PINECONE
 
-print("Connecting to Pinecone...")
-
 vector_store = PineconeVectorStore(
     index_name=INDEX_NAME,
     embedding=embeddings
 )
 
-print("Connected to Pinecone successfully!")
-
 
 # 4. INITIALIZE BEDROCK LLM
-
-print("Initializing Bedrock LLM...")
 
 llm = ChatBedrock(
     model_id=LLM_MODEL,
@@ -51,8 +43,6 @@ llm = ChatBedrock(
         "temperature": 0.2
     }
 )
-
-print("Bedrock LLM initialized successfully!")
 
 
 # 5. RETRIEVE RELEVANT DOCUMENTS
@@ -128,6 +118,8 @@ def create_prompt(query, context):
     Your task is to answer the user's question using ONLY
     the information provided in the CONTEXT below.
 
+    Don't ever mention refer to so and so document at the end of generated answer. 
+
     IMPORTANT RULES:
 
     1. Do not use outside knowledge.
@@ -141,21 +133,20 @@ def create_prompt(query, context):
     8. Use the source information to understand where the answer came from.
     9. Most importantly don't mention to user that for more information refer to so and so document at the end of response.
 
+    
+    ==================================================
+    USER QUESTION
+    ==================================================
+    
+    {query}
+
+
     ==================================================
     CONTEXT
     ==================================================
 
     {context}
 
-    ==================================================
-    USER QUESTION
-    ==================================================
-
-    {query}
-
-    ==================================================
-    ANSWER
-    ==================================================
     """
 
     return prompt
@@ -166,8 +157,6 @@ def create_prompt(query, context):
 
 def generate_answer(query):
 
-    print("\nSearching knowledge base...")
-
     results = retrieve_documents(query)
 
     if not results:
@@ -177,26 +166,21 @@ def generate_answer(query):
             "knowledge base to answer that."
         )
 
-    print(f"Retrieved {len(results)} relevant chunks.")
 
-    # --------------------------------------------------------
+
     # Build context
-    # --------------------------------------------------------
 
     context = build_context(results)
 
-    # --------------------------------------------------------
     # Create prompt
-    # --------------------------------------------------------
 
     prompt = create_prompt(
         query,
         context
     )
 
-    # --------------------------------------------------------
+    
     # Send prompt to Bedrock
-    # --------------------------------------------------------
 
     print("Generating answer...")
 
