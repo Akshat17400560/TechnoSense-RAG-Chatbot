@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime
 
-from rag_pipeline_pinecone import generate_answer
+from backend.rag_pipeline_pinecone import generate_answer
 
 
 # ============================================================
