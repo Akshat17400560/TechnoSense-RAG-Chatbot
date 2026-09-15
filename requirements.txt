@@ -1,0 +1,8 @@
+streamlit
+datetime
+yaml
+dotenv
+langchain_core
+langchain_aws
+langchain_text_splitters
+langchain_pinecone
