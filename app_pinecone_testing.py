@@ -175,9 +175,9 @@ if "messages" not in st.session_state:
 
 SUGGESTED_QUESTIONS = [
     "What services does TechnoSense offer?",
-    "Tell me about your solutions",
-    "What industries do you work with?",
-    "How can I get started?",
+    "How to contact TechnoSense team?",
+    "Why choose TechnoSense?",
+    "Tell me about this company?",
 ]
 
 if not st.session_state.messages:
