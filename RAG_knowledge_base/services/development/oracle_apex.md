@@ -56,8 +56,6 @@ What We Deliver with ADF
 6. Application Modernization & Enhancement: Enhance existing ADF applications, upgrade components, improve performance, and integrate modern services and technologies without requiring a complete application rebuild.
 
 
-**Related service category:** `services/cloud/`
-
 ## Oracle APEX and Database Services
 
 Oracle APEX applications depend closely on their underlying database environment.
@@ -66,7 +64,6 @@ TechnoSense also provides database-related services as part of its broader techn
 
 Database services can therefore complement Oracle APEX application development where organizations require database implementation, administration, migration, or support.
 
-**Related service category:** `services/database/`
 
 ## Business Benefits
 
@@ -105,31 +102,7 @@ Retrieve this document for questions involving:
 - Oracle ADF
 - Low-code Oracle application development
 
-### Preferred Retrieval
 
-For:
-
-> "What development services does TechnoSense provide?"
-
-Prefer `development_services.md`.
-
-For:
-
-> "Does TechnoSense provide Oracle APEX development?"
-
-Retrieve this document.
-
-For:
-
-> "What is Oracle APEX?"
-
-This document can provide context, but a general Oracle APEX explanation should not be presented as a TechnoSense-specific capability unless the information is explicitly associated with the company.
-
-For:
-
-> "Can TechnoSense develop applications using Oracle APEX?"
-
-Retrieve this document.
 
 ### Important Retrieval Boundaries
 
@@ -157,28 +130,19 @@ Do not assume that every Oracle APEX project includes database migration, cloud 
 
 Parent service covering TechnoSense application development capabilities.
 
-**Related document:** `development_services.md`
-
 ### Web & Mobile Application Development
 
 Separate development offering covering web and mobile application development.
-
-**Related document:** `web_mobile_application_development.md`
 
 ### MAF & MCS Cloud
 
 Development offering covering MAF and MCS Cloud technologies.
 
-**Related document:** `maf_mcs_cloud.md`
-
 ### Cloud Consulting
 
 Cloud strategy, implementation, migration, and DevOps consulting.
-
-**Related category:** `services/cloud/`
 
 ### Database Services
 
 Database-related services that can complement Oracle APEX application environments.
 
-**Related category:** `services/database/`

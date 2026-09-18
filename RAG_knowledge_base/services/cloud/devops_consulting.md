@@ -74,7 +74,6 @@ We integrate security throughout the development and deployment lifecycle by inc
 We automate repetitive activities across development, testing, infrastructure provisioning, deployment, monitoring, and operations. By reducing manual intervention, automation helps minimize human errors, improve consistency, accelerate delivery, and allow teams to focus on higher-value tasks.
 
 
-**Related document:** `cloud_adoption_strategy.md`
 
 ## Relationship with Cloud Implementation & Migration
 
@@ -82,7 +81,6 @@ Cloud Implementation & Migration focuses on deploying cloud solutions and transi
 
 DevOps Consulting complements implementation by addressing development and operational practices that may be required to manage and deliver solutions effectively in the target environment.
 
-**Related document:** `cloud_implementation_migration.md`
 
 ## Relationship with Infrastructure Management
 
@@ -96,23 +94,6 @@ Infrastructure Management covers the underlying IT infrastructure, including:
 - Platform migrations
 - Network security and compliance
 
-DevOps Consulting can interact with infrastructure management where development and operations processes depend on the underlying infrastructure.
-
-**Related service category:** `services/infrastructure/`
-
-## Relationship with Development Services
-
-TechnoSense also provides application development services.
-
-Its development portfolio includes services such as:
-
-- Oracle APEX
-- Web and mobile application development
-- MAF & MCS Cloud
-
-DevOps Consulting can complement application development by addressing processes associated with delivering and operating applications.
-
-**Related service category:** `services/development/`
 
 ## Business Benefits
 
@@ -140,23 +121,7 @@ Retrieve this document for questions involving:
 - DevOps support for cloud adoption
 - DevOps support for cloud implementation
 
-For broad questions such as:
 
-> "What cloud services does TechnoSense offer?"
-
-Prefer `cloud_consulting.md`.
-
-For questions about cloud migration or implementation:
-
-> "Does TechnoSense migrate on-premises systems to cloud?"
-
-Prefer `cloud_implementation_migration.md`.
-
-For questions specifically about DevOps:
-
-> "Does TechnoSense provide DevOps consulting?"
-
-Retrieve this document.
 
 ### Important Retrieval Boundaries
 

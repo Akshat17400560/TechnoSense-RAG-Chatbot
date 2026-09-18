@@ -102,16 +102,8 @@ This document should **not** infer or claim:
 - Specific operating systems or infrastructure platforms
 
 unless these details are explicitly documented by TechnoSense.
-
 Generic Oracle Database upgrade practices must not be represented as confirmed TechnoSense capabilities.
 
-## Source References
-
-### Primary Source – TechnoSense Official Website
-
-TechnoSense identifies **Version Upgrades** as one of its Database Management offerings, alongside Oracle Database Installation, Server Setup & Migration, and Managed Services.
-
-Source: TechnoSense NextGen Solutions – Official Website
 
 ### Related Source – TechnoSense Managed Services
 
@@ -121,10 +113,3 @@ These capabilities represent ongoing database operations and should not automati
 
 Source: TechnoSense NextGen Solutions – Managed Services
 
-## Document Scope
-
-This document describes the **Version Upgrades** service at the company-service level.
-
-Specific technical upgrade methodologies, supported database versions, prerequisites, tools, architectures, testing processes, rollback strategies, implementation timelines, pricing, and SLAs are intentionally excluded unless explicitly published by TechnoSense.
-
-Maintaining this boundary ensures that the RAG system answers questions using **verified TechnoSense information** rather than generic Oracle Database knowledge.

@@ -19,9 +19,7 @@ company: TechnoSense NextGen Solutions Pvt Limited
 
 TechnoSense states on its website that it has:
 
-- **15+ years of experience**
 - **100+ projects completed**
-- **50+ customers**
 - **100% success rate**
 
 These figures are company-stated metrics displayed on the TechnoSense website.
@@ -129,7 +127,6 @@ The TechnoSense website describes services covering the following stages:
 3. Maintenance
 4. Support
 
-The detailed activities performed during each stage are documented separately in `service_delivery_process.md`.
 
 ## Company Positioning
 
@@ -147,27 +144,10 @@ The company's stated promise is to combine technology expertise with execution t
 The homepage displays the following performance indicators:
 
 | Metric | Website-Stated Value |
-| Projects Completed | 100+ |
-| Customers | 50+ |
-| Experience | 15+ years |
+| Projects | 100+ |
 | Success Rate | 100% |
 
 These values should be treated as **company-stated website information** and not as independently verified statistics.
 
-## Source Classification
 
-The information in this document is derived from the public TechnoSense website.
-
-Company statistics, project counts, customer counts, success rates, client relationships, partnerships, and other business claims should be treated as **company-provided claims** unless independently verified or subsequently validated by an authorized TechnoSense representative.
-
-## Related Knowledge Documents
-
-For more detailed information, refer to:
-
-- `company_overview.md` — High-level company overview
-- `about_technosense.md` — Detailed company background
-- `why_choose_us.md` — Company differentiators
-- `service_delivery_process.md` — Detailed service lifecycle
-- `business_information/technology_partners.md` — Detailed technology alliance information
-- `business_information/contact_information.md` — Company contact details
 

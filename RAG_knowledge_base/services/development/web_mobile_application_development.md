@@ -56,9 +56,6 @@ We provide complete full-stack development, covering frontend interfaces, backen
 We provide ongoing application support, troubleshooting, performance optimization, security updates, feature enhancements, and infrastructure scaling. Our maintenance services help keep applications secure, reliable, available, and capable of supporting changing business requirements.
 
 
-
-**Related service category:** `services/infrastructure/`
-
 ## Web and Mobile Applications with Database Services
 
 Many business applications depend on databases for storing and managing application data.
@@ -67,7 +64,6 @@ TechnoSense separately provides database-related services.
 
 Database services can therefore complement application development when organizations require database implementation, management, migration, or support.
 
-**Related service category:** `services/database/`
 
 ## Business Benefits
 
@@ -113,37 +109,6 @@ Retrieve this document for questions involving:
 - Application deployment
 - Application scaling
 
-### Preferred Retrieval
-
-For:
-
-> "What development services does TechnoSense offer?"
-
-Prefer `development_services.md`.
-
-For:
-
-> "Does TechnoSense develop web applications?"
-
-Retrieve this document.
-
-For:
-
-> "Does TechnoSense develop mobile applications?"
-
-Retrieve this document.
-
-For:
-
-> "Does TechnoSense provide Oracle APEX development?"
-
-Prefer `oracle_apex.md`.
-
-For:
-
-> "Does TechnoSense provide MAF or MCS Cloud services?"
-
-Prefer `maf_mcs_cloud.md`.
 
 ### Important Retrieval Boundaries
 
@@ -176,34 +141,23 @@ These capabilities may be provided as part of broader engagements but should onl
 
 Parent service covering TechnoSense's application development portfolio.
 
-**Related document:** `development_services.md`
-
 ### Oracle APEX
 
 Oracle APEX application development.
-
-**Related document:** `oracle_apex.md`
 
 ### MAF & MCS Cloud
 
 MAF and MCS Cloud application development capabilities.
 
-**Related document:** `maf_mcs_cloud.md`
-
 ### Cloud Consulting
 
 Cloud strategy, implementation, migration, and DevOps consulting.
-
-**Related category:** `services/cloud/`
 
 ### Infrastructure Management
 
 Infrastructure administration, migrations, monitoring, and security.
 
-**Related category:** `services/infrastructure/`
-
 ### Database Services
 
 Database-related services supporting application environments.
 
-**Related category:** `services/database/`

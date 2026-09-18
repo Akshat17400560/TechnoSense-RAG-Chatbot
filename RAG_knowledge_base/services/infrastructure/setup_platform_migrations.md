@@ -65,19 +65,16 @@ TechnoSense's setup and migration services are intended to help organizations:
 
 The parent service covering infrastructure administration, monitoring, roadmap consulting, migrations, and security.
 
-**Related document:** `infrastructure_management.md`
 
 ### IT & Infrastructure Roadmap Consulting
 
 Planning, assessment, roadmap design, and solution design activities that can precede infrastructure setup or migration.
 
-**Related document:** `it_infra_roadmap_consulting.md`
 
 ### Network Security & Compliances
 
 Security services covering networks, servers, devices, applications, and data.
 
-**Related document:** `network_security_compliances.md`
 
 ## Related Cloud Services
 
@@ -91,9 +88,8 @@ The company's Cloud Consulting services include:
 
 The detailed cloud migration service specifically covers customized cloud solutions, scalable deployments, on-premises-to-cloud migration, documentation, and support.
 
-**Related service category:** `services/cloud/`
 
-## RAG Retrieval Notes
+## Supported Query Topics
 
 Retrieve this document for questions involving:
 

@@ -35,6 +35,19 @@ TechnoSense's primary areas of technology expertise include:
 - Enterprise mobility
 - IT resource placement
 
+
+## Company's Vision
+
+TechnoSense company's vision include:
+
+- Integrity
+- Discipline
+- Transparency
+- Meritocracy
+- Customer Centricity
+- Learning And Innovation
+
+
 ## Technology Focus
 
 TechnoSense works across several major technology areas.
@@ -135,19 +148,4 @@ TechnoSense provides services across multiple stages of a technology initiative,
 6. Maintenance and upgrades
 7. Ongoing application, database, and business operations support
 
-Detailed information about this service lifecycle is maintained separately in the `service_delivery_process.md` document.
-
-## Related Knowledge Documents
-
-For detailed information about specific areas, refer to the following knowledge documents:
-
-- `company_facts.md` — Company statistics and factual company claims
-- `about_technosense.md` — Detailed company background and capabilities
-- `why_choose_us.md` — Reasons and differentiators presented by TechnoSense
-- `service_delivery_process.md` — Detailed service delivery lifecycle
-- `services/infrastructure/` — Infrastructure-related services
-- `services/cloud/` — Cloud and DevOps services
-- `services/development/` — Application development services
-- `services/database/` — Database services
-- `services/microsoft_365/` — Microsoft 365 services
 

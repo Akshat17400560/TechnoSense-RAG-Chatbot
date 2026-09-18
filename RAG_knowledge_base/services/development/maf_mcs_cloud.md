@@ -30,7 +30,6 @@ Oracle Mobile Cloud Service (MCS) is a cloud-based backend platform designed to 
 MCS capabilities can include API management, authentication and user management, data integration, mobile application services, analytics, notifications, and secure connectivity with enterprise systems. It helps organizations simplify backend development and provide a consistent integration layer between mobile applications and existing enterprise infrastructure.
 
 
-
 # Services We Provide
 
 ## Cross-platform mobile app development
@@ -55,8 +54,6 @@ We enable mobile access to critical business functions so users can access infor
 
 
 
-**Related document:** `web_mobile_application_development.md`
-
 ## Relationship with Oracle APEX
 
 Oracle APEX and MAF & MCS Cloud are separate Oracle-oriented development offerings within TechnoSense's portfolio.
@@ -72,8 +69,6 @@ Focused on mobile application development and cloud-based mobile backend capabil
 Both belong to TechnoSense's Development Services portfolio but address different application requirements.
 
 
-**Related service category:** `services/cloud/`
-
 ## Relationship with Database Services
 
 Mobile and enterprise applications typically interact with data stored in backend systems.
@@ -82,7 +77,6 @@ TechnoSense separately provides database-related services.
 
 Database services can therefore complement MAF & MCS Cloud application development where database implementation, administration, migration, or support is required.
 
-**Related service category:** `services/database/`
 
 ## Business Benefits
 
@@ -108,38 +102,6 @@ MAF & MCS Cloud can be relevant for organizations requiring:
 
 The suitability of the technology depends on the organization's application requirements, existing Oracle environment, integration needs, and target architecture.
 
-
-### Preferred Retrieval
-
-For:
-
-> "What development services does TechnoSense provide?"
-
-Prefer `development_services.md`.
-
-For:
-
-> "Does TechnoSense provide MAF services?"
-
-Retrieve this document.
-
-For:
-
-> "What is MCS Cloud?"
-
-Retrieve this document for the TechnoSense-specific context, while avoiding claims beyond the documented scope.
-
-For:
-
-> "Does TechnoSense develop mobile applications?"
-
-This document and `web_mobile_application_development.md` can both be relevant.
-
-For:
-
-> "Does TechnoSense provide Oracle APEX?"
-
-Prefer `oracle_apex.md`.
 
 ### Important Retrieval Boundaries
 
@@ -170,28 +132,19 @@ Also, **MCS refers to Oracle Mobile Cloud Service in this document**. Do not aut
 
 Parent service covering TechnoSense's application development portfolio.
 
-**Related document:** `development_services.md`
-
 ### Oracle APEX
 
 Oracle APEX application development.
-
-**Related document:** `oracle_apex.md`
 
 ### Web & Mobile Application Development
 
 General web and mobile application development.
 
-**Related document:** `web_mobile_application_development.md`
-
 ### Cloud Consulting
 
 Cloud adoption, implementation, migration, and DevOps consulting.
-
-**Related category:** `services/cloud/`
 
 ### Database Services
 
 Database-related services supporting application environments.
 
-**Related category:** `services/database/`

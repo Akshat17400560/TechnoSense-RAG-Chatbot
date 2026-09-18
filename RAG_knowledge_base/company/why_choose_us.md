@@ -177,9 +177,6 @@ TechnoSense identifies AWS, Microsoft, Redington, Fortinet and Nutanix as truste
 
 These relationships support the company's technology capabilities across cloud, enterprise software, infrastructure, and security environments.
 
-Detailed alliance information is maintained separately in:
-
-`business_information/technology_partners.md`
 
 ## Customer-Centric Approach
 
@@ -210,13 +207,4 @@ Based on the company's stated positioning, key reasons to consider TechnoSense i
 - Business-oriented technology planning
 
 
-## Related Knowledge Documents
 
-For additional information, refer to:
-
-- `company/company_overview.md` — High-level company information
-- `company/company_facts.md` — Company statistics and factual claims
-- `company/about_technosense.md` — Company background and technology expertise
-- `company/service_delivery_process.md` — Service delivery methodology
-- `business_information/technology_partners.md` — Technology partnerships
-- `services/` — Detailed service-specific capabilities

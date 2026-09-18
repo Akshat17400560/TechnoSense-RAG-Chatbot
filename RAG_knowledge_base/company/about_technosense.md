@@ -43,21 +43,5 @@ TechnoSense maintains technology alliances with organizations identified on its 
 - Fortinet
 - Nutanix
 
-These partnerships support the company's ability to provide solutions across cloud, infrastructure, security, and enterprise technology environments.
 
-Detailed information about these alliances is maintained separately in `business_information/technology_partners.md`.
-
-
-## Relationship to Other Company Documents
-
-This document provides contextual information about TechnoSense and its technology capabilities.
-
-For specific information, use:
-
-- `company_overview.md` for the high-level company overview
-- `company_facts.md` for company statistics and factual claims
-- `why_choose_us.md` for company differentiators
-- `service_delivery_process.md` for the service delivery lifecycle
-- `business_information/technology_partners.md` for technology alliances
-- `business_information/contact_information.md` for contact details
 

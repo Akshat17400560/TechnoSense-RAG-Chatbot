@@ -11,7 +11,7 @@ TechnoSense provides **O365 Licensing & Setup** services to help organizations s
 
 The service covers multiple stages of Microsoft 365 adoption, beginning with license selection and tenant setup and extending to account configuration, migration, security and compliance configuration, application deployment, and user training.
 
-TechnoSense positions the service as a way to help organizations maximize the value of Office 365 while maintaining a secure and properly configured environment. ([technosense.in](https://technosense.in/O365-licensing-setup.html?utm_source=chatgpt.com))
+TechnoSense positions the service as a way to help organizations maximize the value of Office 365 while maintaining a secure and properly configured environment.
 
 ## Right License Selection
 
@@ -168,22 +168,9 @@ The page describes:
 - User training and onboarding
 
 It specifically identifies Gmail, Exchange, IMAP, and on-premises servers as migration sources and emails, contacts, calendars, files, and other data as migration targets. It also mentions Outlook, Teams, SharePoint, and OneDrive as O365 applications.
-
 Source: TechnoSense NextGen Solutions – O365 Licensing & Setup
 
 ## Related Source – Microsoft O365 Services
 
 The broader Microsoft O365 Services page identifies O365 Licensing & Setup as one of TechnoSense's three Microsoft 365 offerings.
-
 Source: TechnoSense NextGen Solutions – Microsoft O365 Services
-
-
-# Document Scope
-
-This document describes the **O365 Licensing & Setup** offering using information explicitly published by TechnoSense.
-
-It should be used by the RAG system for company-specific questions about Microsoft 365 licensing, setup, migration, application deployment, and onboarding.
-
-Generic Microsoft 365 knowledge should not be presented as a TechnoSense capability unless it is supported by company-specific source material.
-
-Specific licensing details, migration procedures, tools, architectures, pricing, timelines, and SLAs should only be added when supported by authoritative TechnoSense documentation.

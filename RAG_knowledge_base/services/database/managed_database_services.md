@@ -147,10 +147,3 @@ TechnoSense's broader Database Management portfolio identifies Managed Services 
 
 Source: TechnoSense NextGen Solutions – Official Website
 
-## Document Scope
-
-This document describes TechnoSense's **Managed Database Services** based on the company's published service information.
-
-It intentionally distinguishes confirmed TechnoSense capabilities from generic database administration knowledge.
-
-Technical implementation details, database products, specific tools, architectures, SLAs, pricing, compliance claims, recovery objectives, and operational procedures should only be added to the RAG knowledge base when supported by additional TechnoSense source material.

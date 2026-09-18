@@ -168,7 +168,6 @@ TechnoSense's Cloud Implementation & Migration service provides support for:
 - Training and rollout
 - Post-migration support
 
-**Related document:** `cloud_implementation_migration.md`
 
 ## Relationship with Infrastructure Roadmap Consulting
 
@@ -178,7 +177,6 @@ Infrastructure roadmap consulting considers the broader IT infrastructure direct
 
 Both services can therefore contribute to an organization's overall technology transformation planning.
 
-**Related document:** `services/infrastructure/it_infra_roadmap_consulting.md`
 
 ## Business Benefits
 
@@ -214,13 +212,6 @@ Retrieve this document for questions involving:
 - Future cloud expansion
 - Cloud adoption consulting
 
-### Preferred Retrieval
-
-For broad questions such as **"What cloud services does TechnoSense provide?"**, retrieve `cloud_consulting.md`.
-
-For specific questions such as **"Does TechnoSense help create a cloud adoption roadmap?"**, retrieve this document.
-
-For questions specifically about moving workloads from on-premises infrastructure to cloud, retrieve `cloud_implementation_migration.md`.
 
 ### Important Retrieval Boundaries
 

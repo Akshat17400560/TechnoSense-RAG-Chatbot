@@ -64,15 +64,11 @@ TechnoSense provides IT and infrastructure roadmap consulting to help organizati
 
 The roadmap consulting offering is intended to support organizations in understanding their infrastructure requirements and developing an appropriate direction for future infrastructure initiatives.
 
-Detailed information about this offering is documented separately in `it_infra_roadmap_consulting.md`.
-
 ## Setup and Platform Migrations
 
 TechnoSense provides infrastructure setup and platform migration services.
 
 These services support organizations when establishing infrastructure environments or transitioning between platforms. The objective is to enable a structured transition while maintaining operational continuity.
-
-Detailed information about migration-related services is documented separately in `setup_platform_migrations.md`.
 
 ## Network Security and Compliance
 
@@ -91,7 +87,6 @@ Specific capabilities include:
 - Data security and encryption
 - Backup strategies
 
-Detailed information about this offering is documented separately in `network_security_compliances.md`.
 
 ## Business Benefits
 
@@ -129,19 +124,13 @@ The company works across different stages of the technology lifecycle, from plan
 
 Planning and consulting services for developing an appropriate infrastructure roadmap.
 
-**Related document:** `it_infra_roadmap_consulting.md`
-
 ### Setup & Platform Migrations
 
 Infrastructure setup and platform migration services.
 
-**Related document:** `setup_platform_migrations.md`
-
 ### Network Security & Compliances
 
 Security and compliance services covering infrastructure, networks, devices, applications, and data.
-
-**Related document:** `network_security_compliances.md`
 
 ## Source Information
 

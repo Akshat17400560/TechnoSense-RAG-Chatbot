@@ -209,7 +209,6 @@ The two services therefore work together:
 - Solution selection
 - Investment and ROI considerations
 
-↓
 
 **Cloud Implementation & Migration**
 
@@ -224,7 +223,6 @@ The two services therefore work together:
 - Rollout
 - Support
 
-**Related document:** `cloud_adoption_strategy.md`
 
 ## Relationship with Infrastructure Services
 
@@ -237,9 +235,6 @@ Infrastructure Management includes:
 - Platform migrations
 - Network security and compliance
 
-Cloud implementation can therefore form part of a broader infrastructure modernization initiative.
-
-**Related service category:** `services/infrastructure/`
 
 ## Business Benefits
 
@@ -277,25 +272,6 @@ Retrieve this document for questions involving:
 - Cloud implementation support
 - Cloud platform migration
 
-### Preferred Retrieval
-
-For a question such as:
-
-> "Does TechnoSense help companies migrate from on-premises infrastructure to the cloud?"
-
-Retrieve this document.
-
-For:
-
-> "Does TechnoSense create a cloud adoption roadmap?"
-
-Prefer `cloud_adoption_strategy.md`.
-
-For:
-
-> "What cloud services does TechnoSense provide?"
-
-Prefer `cloud_consulting.md`.
 
 ### Important Retrieval Boundaries
 

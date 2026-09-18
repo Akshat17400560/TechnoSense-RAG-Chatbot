@@ -32,7 +32,6 @@ Oracle APEX enables organizations to develop and deploy data-driven applications
 
 TechnoSense's Oracle APEX offering is documented separately.
 
-**Related document:** `oracle_apex.md`
 
 ### Web & Mobile Application Development
 
@@ -40,7 +39,6 @@ TechnoSense provides web and mobile application development services for organiz
 
 The service covers application development for web and mobile environments and can support organizations in developing applications aligned with their business requirements.
 
-**Related document:** `web_mobile_application_development.md`
 
 ### MAF & MCS Cloud
 
@@ -50,7 +48,6 @@ MAF refers to Oracle Mobile Application Framework, while MCS refers to Oracle Mo
 
 These technologies are associated with application development and mobile/cloud application capabilities.
 
-**Related document:** `maf_mcs_cloud.md`
 
 ## Application Development Approach
 
@@ -163,7 +160,6 @@ Development services, meanwhile, focus on building and enhancing applications.
 
 The two service categories can therefore complement one another within broader digital transformation initiatives.
 
-**Related service category:** `services/cloud/`
 
 ## Development and Infrastructure
 
@@ -179,15 +175,12 @@ TechnoSense's Infrastructure Management portfolio includes:
 - Platform migrations
 - Network security and compliance
 
-Infrastructure services can therefore support the environments required by developed applications.
-
-**Related service category:** `services/infrastructure/`
 
 ## Development Lifecycle
 
 A high-level application development lifecycle can be represented as:
 
-```text id="v0d4qs"
+```
 Business Requirements
         ↓
 Requirements Analysis
@@ -224,18 +217,6 @@ TechnoSense's Development Services are intended to help organizations:
 - Maintain applications after implementation
 - Obtain ongoing application support
 
-## Service Selection Guide
-
-| Requirement | Recommended Service Document |
-| General application development | `development_services.md` |
-| Oracle APEX development | `oracle_apex.md` |
-| Web application development | `web_mobile_application_development.md` |
-| Mobile application development | `web_mobile_application_development.md` |
-| MAF development | `maf_mcs_cloud.md` |
-| MCS Cloud | `maf_mcs_cloud.md` |
-| Application modernization | Relevant detailed development document |
-| Application maintenance | `development_services.md` + relevant service document |
-
 
 
 ### Important Retrieval Boundaries
@@ -250,19 +231,15 @@ Do not assume that every development project includes all lifecycle stages descr
 
 Cloud strategy, cloud implementation and migration, and DevOps consulting.
 
-**Related category:** `services/cloud/`
 
 ### Infrastructure Management
 
 Infrastructure administration, roadmap consulting, migrations, monitoring, and security.
 
-**Related category:** `services/infrastructure/`
 
 ### Database Services
 
 Database-related services supporting enterprise application environments.
-
-**Related category:** `services/database/`
 
 ## Source Information
 

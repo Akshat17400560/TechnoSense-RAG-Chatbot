@@ -83,19 +83,15 @@ TechnoSense's Network Security & Compliance services are intended to help organi
 
 The parent infrastructure service covering infrastructure administration, monitoring, roadmap consulting, migrations, and security.
 
-**Related document:** `infrastructure_management.md`
 
 ### IT & Infrastructure Roadmap Consulting
 
 Planning and assessment services that can help organizations establish their infrastructure direction before implementation.
 
-**Related document:** `it_infra_roadmap_consulting.md`
 
 ### Setup & Platform Migrations
 
 Infrastructure setup and migration services that can include transitions to cloud environments.
-
-**Related document:** `setup_platform_migrations.md`
 
 ## Related Security Services
 
@@ -105,7 +101,7 @@ The Microsoft 365 security offering includes identity and access protection, ema
 
 These capabilities should be retrieved from the dedicated Microsoft 365 security documentation rather than being assumed to be part of the general Network Security & Compliances service.
 
-## RAG Retrieval Notes
+## Supported Query Topics
 
 Retrieve this document for questions involving:
 

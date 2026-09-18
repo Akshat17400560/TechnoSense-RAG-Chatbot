@@ -62,33 +62,17 @@ A structured IT and infrastructure roadmap can help organizations:
 
 The parent infrastructure service covering network and server administration, storage management, device monitoring, mission-critical application support, roadmap consulting, migrations, and network security.
 
-**Related document:** `infrastructure_management.md`
-
 ### Setup & Platform Migrations
 
 Infrastructure setup and platform migration services that can follow roadmap and solution planning.
-
-**Related document:** `setup_platform_migrations.md`
 
 ### Network Security & Compliances
 
 Security and compliance services covering networks, servers, devices, applications, and data.
 
-**Related document:** `network_security_compliances.md`
-
 ### Cloud Consulting
 
 TechnoSense also provides cloud consulting services covering cloud adoption strategy, implementation and migration, and DevOps solutions.
 
-**Related service category:** `services/cloud/`
 
-## RAG Retrieval Notes
 
-For questions about TechnoSense's IT and infrastructure planning capabilities, retrieve this document when the user's query involves:
-
-- Network And Server Management
-- Database Management
-- Cloud And Security Management
-- Incident And Problem Management
-
-Do not infer specific infrastructure products, vendors, certifications, frameworks, SLAs, or technologies unless they are explicitly documented in the relevant TechnoSense source material.

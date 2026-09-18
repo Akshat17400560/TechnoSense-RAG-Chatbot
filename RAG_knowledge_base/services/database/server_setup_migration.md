@@ -122,10 +122,3 @@ TechnoSense provides broader cloud consulting, implementation, and migration ser
 
 Source: TechnoSense NextGen Solutions – Cloud Services
 
-## Document Scope
-
-This document describes **Server Setup & Migration** at the company-service level.
-
-Specific server configurations, migration architectures, database migration tools, supported source and target platforms, migration procedures, testing methodologies, downtime expectations, rollback mechanisms, timelines, pricing, and SLAs are intentionally excluded unless explicitly published by TechnoSense.
-
-Maintaining this boundary ensures that the RAG system remains **source-grounded, company-specific, and resistant to technical capability hallucination**.

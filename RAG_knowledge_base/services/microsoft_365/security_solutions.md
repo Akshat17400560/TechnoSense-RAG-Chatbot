@@ -48,7 +48,6 @@ We help organizations classify and protect sensitive information using Microsoft
 We provide centralized security visibility using Microsoft's security and compliance platforms to monitor security alerts, incidents, user activity, device risks, compliance status, and potential threats. We help analyze security events, prioritize risks, investigate suspicious activity, and generate reports that provide actionable insights for continuously improving the organization's security posture.
 
 
-
 # Business Benefits
 
 TechnoSense positions its Microsoft 365 security services to help organizations:
@@ -63,7 +62,6 @@ TechnoSense positions its Microsoft 365 security services to help organizations:
 - Protect users and applications.
 
 The company describes these security capabilities as helping organizations remain secure, compliant, and resilient against cyber threats.
-
 
 
 # When This Service Is Relevant

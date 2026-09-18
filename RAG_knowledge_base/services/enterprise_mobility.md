@@ -81,7 +81,6 @@ Enterprise Mobility Solutions may be relevant when an organization:
 The exact service scope should be determined from the customer's requirements.
 
 
-
 # Supported query topics
 
 This document should enable the RAG system to answer questions such as:
@@ -97,7 +96,6 @@ This document should enable the RAG system to answer questions such as:
 - How is Enterprise Mobility different from Mobile Device Management?
 - Does TechnoSense provide services related to mobile applications?
 - What TechnoSense services are related to enterprise mobility?
-
 
 
 # Important Answer Boundaries
@@ -147,6 +145,5 @@ For detailed questions about:
 - Cloud services
 - Other specific technologies
 
-the RAG system should retrieve the corresponding dedicated TechnoSense service document.
 
 Additional Enterprise Mobility documentation from TechnoSense can be incorporated into this document if more detailed authoritative company material becomes available.

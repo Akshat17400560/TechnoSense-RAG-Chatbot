@@ -254,13 +254,3 @@ TechnoSense's official Contact Us page provides the company's published office a
 ## Secondary Source – Official Website
 
 The TechnoSense homepage also publishes the same contact address, phone number, and email address.
-
-
-
-# Document Scope
-
-This document contains the publicly published contact information for **TechnoSense NextGen Solutions Pvt Limited**.
-
-It should be used when the RAG assistant receives questions about contacting TechnoSense, its office location, phone number, email address, or general enquiry process.
-
-Service-specific questions should be answered using the corresponding service documents rather than this document.

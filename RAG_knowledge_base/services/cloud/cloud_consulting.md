@@ -42,7 +42,6 @@ The service focuses on:
 - Aligning cloud initiatives with existing infrastructure and manpower
 - Optimizing investment and expected return
 
-**Related document:** `cloud_adoption_strategy.md`
 
 ### Cloud Implementation & Migration
 
@@ -58,7 +57,6 @@ The service includes:
 - Migration documentation and manuals
 - Post-migration support and maintenance
 
-**Related document:** `cloud_implementation_migration.md`
 
 ### DevOps Consulting
 
@@ -66,7 +64,7 @@ TechnoSense provides DevOps consulting as part of its Cloud Consulting portfolio
 
 DevOps consulting is positioned alongside cloud strategy and cloud deployment/migration services to support organizations in their cloud and technology transformation initiatives.
 
-**Related document:** `devops_consulting.md`
+
 
 ## Cloud Strategy and Planning
 
@@ -156,9 +154,6 @@ Cloud Consulting focuses specifically on:
 - Cloud implementation and migration
 - DevOps consulting
 
-Infrastructure assessments and roadmap activities can therefore provide inputs into cloud adoption and transformation initiatives.
-
-**Related service category:** `services/infrastructure/`
 
 ## Relationship with Development Services
 
@@ -172,7 +167,6 @@ TechnoSense separately provides Development Services covering areas such as:
 
 Cloud Consulting should therefore be treated as a separate service category from application development, while recognizing that the two may be part of the same broader technology transformation engagement.
 
-**Related service category:** `services/development/`
 
 ## Supported query topics
 
@@ -191,18 +185,6 @@ Retrieve this document for broad questions involving:
 - Cloud roadmap
 - Cloud strategy consulting
 
-For detailed questions, retrieve the relevant child document:
-
-| User Query | Preferred Document |
-| Cloud consulting services | `cloud_consulting.md` |
-| Cloud adoption strategy | `cloud_adoption_strategy.md` |
-| Cloud roadmap | `cloud_adoption_strategy.md` |
-| Cloud solution selection | `cloud_adoption_strategy.md` |
-| Cloud implementation | `cloud_implementation_migration.md` |
-| Cloud migration | `cloud_implementation_migration.md` |
-| On-premises to cloud migration | `cloud_implementation_migration.md` |
-| Cloud deployment | `cloud_implementation_migration.md` |
-| DevOps consulting | `devops_consulting.md` |
 
 ### Important Retrieval Boundaries
 
