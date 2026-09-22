@@ -1,6 +1,6 @@
 ---
-document_id: resource_placement
-title: Resource Placement
+document_id: resource_placement_services
+title: Resource Placement Services
 category: IT Services
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -95,35 +95,3 @@ These details should not be invented or inferred.
 
 Similarly, the technology domains listed in this document should not be interpreted as proof that TechnoSense guarantees availability of a resource for every technology within those domains.
 
-
-
-# Source References
-
-## Primary Source
-
-TechnoSense's official website and service portfolio provide the company-specific context for its Resource Placement offering.
-
-The service should be interpreted within the broader set of technology and professional services provided by TechnoSense.
-
-## Related Service Categories
-
-Resource Placement may conceptually support requirements associated with TechnoSense's:
-
-- Infrastructure services
-- Cloud services
-- Development services
-- Database services
-- Microsoft 365 services
-- Security services
-- Enterprise mobility services
-
-The individual service documents remain the authoritative sources for the specific capabilities of those offerings.
-
-
-# Document Scope
-
-This document describes **Resource Placement** as a TechnoSense service for addressing customer technical-resource requirements.
-
-It intentionally avoids inventing staffing models, resource counts, job titles, certifications, pricing, availability, contractual arrangements, or guaranteed delivery timelines where such information is not explicitly documented.
-
-For detailed questions about a specific technology capability, the RAG system should retrieve the corresponding TechnoSense service document rather than treating Resource Placement as evidence that every technology service is available through staffing.

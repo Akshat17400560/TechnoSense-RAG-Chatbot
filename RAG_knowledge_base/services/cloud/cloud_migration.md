@@ -1,6 +1,6 @@
 ---
-document_id: cloud_migration
-title: Cloud Migration
+document_id: cloud_migration_service
+title: Cloud Migration Service
 category: Cloud
 company: TechnoSense NextGen Solutions Pvt Limited
 ---

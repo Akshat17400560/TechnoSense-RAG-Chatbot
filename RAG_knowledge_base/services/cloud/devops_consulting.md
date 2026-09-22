@@ -1,6 +1,6 @@
 ---
-document_id: devops_consulting
-title: Devops Consulting
+document_id: devops_consulting_service
+title: Devops Consulting Service
 category: Cloud
 company: TechnoSense NextGen Solutions Pvt Limited
 ---

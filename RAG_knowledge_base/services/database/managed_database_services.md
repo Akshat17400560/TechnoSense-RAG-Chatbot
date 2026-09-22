@@ -137,13 +137,4 @@ The source explicitly identifies:
 
 It also states that the service is intended to keep database environments secure, reliable, optimized, and available while reducing day-to-day operational challenges for customers' IT teams.
 
-### Related Source – TechnoSense Database Management
-
-TechnoSense's broader Database Management portfolio identifies Managed Services alongside:
-
-- Oracle Database Installation
-- Version Upgrades
-- Server Setup & Migration
-
-Source: TechnoSense NextGen Solutions – Official Website
 

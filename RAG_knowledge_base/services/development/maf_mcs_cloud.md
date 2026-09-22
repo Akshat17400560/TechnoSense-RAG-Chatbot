@@ -1,6 +1,6 @@
 ---
-document_id: maf_mcs_cloud
-title: MAF MCS Cloud
+document_id: maf_mcs_cloud_service
+title: MAF MCS Cloud Service
 category: Development
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -126,25 +126,5 @@ unless explicitly documented by TechnoSense.
 
 Also, **MCS refers to Oracle Mobile Cloud Service in this document**. Do not automatically interpret the abbreviation as another Oracle or non-Oracle product.
 
-## Related Services
 
-### Development Services
-
-Parent service covering TechnoSense's application development portfolio.
-
-### Oracle APEX
-
-Oracle APEX application development.
-
-### Web & Mobile Application Development
-
-General web and mobile application development.
-
-### Cloud Consulting
-
-Cloud adoption, implementation, migration, and DevOps consulting.
-
-### Database Services
-
-Database-related services supporting application environments.
 

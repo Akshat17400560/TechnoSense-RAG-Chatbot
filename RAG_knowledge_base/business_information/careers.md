@@ -15,7 +15,6 @@ According to the company's official Careers page, TechnoSense looks for **passio
 TechnoSense also emphasizes continuous learning, an open work culture, and opportunities for professional growth.
 
 
-
 # Career Opportunities
 
 TechnoSense states that it hires professionals across multiple technology and business functions.

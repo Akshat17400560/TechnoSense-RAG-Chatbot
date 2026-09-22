@@ -1,6 +1,6 @@
 ---
-document_id: licensing_setup
-title: Licensing Setup
+document_id: licensing_setup_services
+title: Licensing Setup Services
 category: Microsoft_365
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -32,7 +32,6 @@ We configure Microsoft 365 security controls to protect user accounts, business 
 ## Application Deployment
 
 We deploy and configure Microsoft 365 applications such as Outlook, Microsoft Teams, SharePoint, OneDrive, Word, Excel, and PowerPoint across supported user devices. This includes application configuration, account setup, policy deployment, synchronization settings, and access configuration to provide users with a consistent and productive Microsoft 365 experience.
-
 
 ## User Training And Onboarding
 
@@ -148,29 +147,3 @@ The published source does **not** specify:
 
 These details must not be invented by the RAG system.
 
-
-# Source References
-
-## Primary Source – O365 Licensing & Setup
-
-TechnoSense's official O365 Licensing & Setup page provides the primary source for this document.
-
-The page describes:
-
-- O365 license selection
-- Tenant setup
-- Account setup
-- Mailbox configuration
-- Permissions
-- Migration
-- Security and compliance
-- Application deployment
-- User training and onboarding
-
-It specifically identifies Gmail, Exchange, IMAP, and on-premises servers as migration sources and emails, contacts, calendars, files, and other data as migration targets. It also mentions Outlook, Teams, SharePoint, and OneDrive as O365 applications.
-Source: TechnoSense NextGen Solutions – O365 Licensing & Setup
-
-## Related Source – Microsoft O365 Services
-
-The broader Microsoft O365 Services page identifies O365 Licensing & Setup as one of TechnoSense's three Microsoft 365 offerings.
-Source: TechnoSense NextGen Solutions – Microsoft O365 Services

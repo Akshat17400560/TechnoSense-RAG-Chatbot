@@ -1,6 +1,6 @@
 ---
-document_id: web_mobile_application_development
-title: Web Mobile Application Development
+document_id: web_mobile_application_development_service
+title: Web Mobile Application Development Service
 category: Development
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -135,29 +135,7 @@ Do not assume that every web or mobile development project includes cloud deploy
 
 These capabilities may be provided as part of broader engagements but should only be stated for a specific project when supported by the relevant documentation.
 
-## Related Services
 
-### Development Services
 
-Parent service covering TechnoSense's application development portfolio.
 
-### Oracle APEX
-
-Oracle APEX application development.
-
-### MAF & MCS Cloud
-
-MAF and MCS Cloud application development capabilities.
-
-### Cloud Consulting
-
-Cloud strategy, implementation, migration, and DevOps consulting.
-
-### Infrastructure Management
-
-Infrastructure administration, migrations, monitoring, and security.
-
-### Database Services
-
-Database-related services supporting application environments.
 

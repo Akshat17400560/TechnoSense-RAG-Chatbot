@@ -1,11 +1,11 @@
 ---
-document_id: setup_platform_migrations
-title: Setup Platform Migrations
+document_id: setup_platform_migrations_services
+title: Setup Platform Migrations Services
 category: Infrastructure
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
-# Setup & Platform Migrations
+# Setup & Platform Migrations Services
 
 ## Overview
 
@@ -15,7 +15,7 @@ The service supports organizations in establishing infrastructure environments a
 
 The objective is to enable organizations to transition to their target environment in a structured manner while maintaining operational continuity.
 
-# Service Scope
+# Services Offered
 
 The Setup & Platform Migrations offering covers two closely related activities:
 
@@ -46,7 +46,7 @@ We follow a structured migration methodology designed to reduce operational, sec
 
 
 
-## Business Benefits
+# Business Benefits
 
 TechnoSense's setup and migration services are intended to help organizations:
 
@@ -59,37 +59,8 @@ TechnoSense's setup and migration services are intended to help organizations:
 - Provide documentation for client teams
 - Receive ongoing maintenance and support after migration
 
-## Related Infrastructure Services
 
-### Infrastructure Management
-
-The parent service covering infrastructure administration, monitoring, roadmap consulting, migrations, and security.
-
-
-### IT & Infrastructure Roadmap Consulting
-
-Planning, assessment, roadmap design, and solution design activities that can precede infrastructure setup or migration.
-
-
-### Network Security & Compliances
-
-Security services covering networks, servers, devices, applications, and data.
-
-
-## Related Cloud Services
-
-Setup and platform migration services overlap with TechnoSense's Cloud Consulting portfolio.
-
-The company's Cloud Consulting services include:
-
-- Cloud Adoption Strategy
-- Cloud Implementation & Migration
-- DevOps Solutions
-
-The detailed cloud migration service specifically covers customized cloud solutions, scalable deployments, on-premises-to-cloud migration, documentation, and support.
-
-
-## Supported Query Topics
+# Supported Query Topics
 
 Retrieve this document for questions involving:
 

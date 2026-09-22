@@ -1,6 +1,6 @@
 ---
-document_id: infrastructure_management
-title: Infrastructure Management
+document_id: infrastructure_management_service
+title: Infrastructure Management Services
 category: Infrastructure
 company: TechnoSense NextGen Solutions Pvt Limited
 ---

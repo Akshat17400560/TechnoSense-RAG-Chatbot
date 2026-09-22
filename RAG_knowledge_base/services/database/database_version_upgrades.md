@@ -1,6 +1,6 @@
 ---
-document_id: database_version_upgrades
-title: Database Version Upgrades
+document_id: database_version_upgrades_service
+title: Database Version Upgrades Service
 category: Database
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -68,7 +68,6 @@ Provides ongoing operational support after database deployment or upgrade.
 ### Infrastructure Management
 
 Provides broader infrastructure management capabilities that may support the environment in which database systems operate.
-
 
 
 ### Supported Queries

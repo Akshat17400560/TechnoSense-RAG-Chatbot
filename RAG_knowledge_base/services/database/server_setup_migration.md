@@ -1,6 +1,6 @@
 ---
-document_id: server_setup_migration
-title: Server Setup Migration
+document_id: server_setup_migration_service
+title: Server Setup Migration Service
 category: Database
 company: TechnoSense NextGen Solutions Pvt Limited
 ---

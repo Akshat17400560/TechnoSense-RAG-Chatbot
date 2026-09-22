@@ -1,6 +1,6 @@
 ---
-document_id: security_solutions
-title: Security Solutions
+document_id: security_solutions_services
+title: Security Solutions Services
 category: Microsoft_365
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -160,15 +160,3 @@ The published material does **not** specify:
 The RAG system must not infer these details.
 
 In particular, the existence of a Microsoft security feature should **not** automatically be interpreted as proof that TechnoSense implements every possible configuration or feature of that Microsoft product.
-
-
-
-# Document Scope
-
-This document describes TechnoSense's **Microsoft 365 Security Solutions** based on the company's published service information.
-
-It should be used for company-specific questions concerning Microsoft 365 security capabilities.
-
-Detailed technical implementation procedures, policy configurations, security architectures, licensing requirements, compliance certifications, monitoring platforms, incident-response procedures, SLAs, and pricing should only be added when supported by authoritative TechnoSense documentation.
-
-Generic Microsoft 365 security knowledge must not be presented as a confirmed TechnoSense capability without company-specific source evidence.

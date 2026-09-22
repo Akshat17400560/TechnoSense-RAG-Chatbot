@@ -1,6 +1,6 @@
 ---
-document_id: oracle_apex_adf
-title: Oracle Apex And ADF
+document_id: oracle_apex_adf_service
+title: Oracle Apex And ADF Service
 category: Development
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -124,25 +124,5 @@ unless explicitly documented by TechnoSense.
 
 Do not assume that every Oracle APEX project includes database migration, cloud deployment, application modernization, or ongoing support. These activities depend on the scope of the individual engagement.
 
-## Related Services
 
-### Development Services
-
-Parent service covering TechnoSense application development capabilities.
-
-### Web & Mobile Application Development
-
-Separate development offering covering web and mobile application development.
-
-### MAF & MCS Cloud
-
-Development offering covering MAF and MCS Cloud technologies.
-
-### Cloud Consulting
-
-Cloud strategy, implementation, migration, and DevOps consulting.
-
-### Database Services
-
-Database-related services that can complement Oracle APEX application environments.
 

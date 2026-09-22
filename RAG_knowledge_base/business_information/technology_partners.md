@@ -22,7 +22,7 @@ The technology organizations displayed in this section are:
 These are the technology alliances explicitly presented by TechnoSense on its official website.
 
 
-# Trusted Alliances Of Technosense
+# Technosense Alliances Details
 
 ## AWS
 

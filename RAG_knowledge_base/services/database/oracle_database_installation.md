@@ -1,6 +1,6 @@
 ---
-document_id: oracle_database_installation
-title: Oracle Database Installation
+document_id: oracle_database_installation_service
+title: Oracle Database Installation Service
 category: Database
 company: TechnoSense NextGen Solutions Pvt Limited
 ---

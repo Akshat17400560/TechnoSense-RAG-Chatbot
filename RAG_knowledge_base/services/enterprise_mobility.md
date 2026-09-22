@@ -1,6 +1,6 @@
 ---
-document_id: enterprise_mobility
-title: Enterprise Mobility
+document_id: enterprise_mobility_solutions_services
+title: Enterprise Mobility Solutions Services
 category: IT services
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -36,7 +36,7 @@ We transform manual and paper-based business processes into digital, mobile-enab
 We enable employees, customers, and authorized users to securely access critical business applications and information from mobile devices. Our solutions incorporate authentication, authorization, encryption, secure APIs, access controls, and session management to protect sensitive information. We can also support security requirements for both corporate-owned devices and Bring Your Own Device (BYOD) environments.
 
 
-## Ingeration With Enterprise Systems
+## Integration With Enterprise Systems
 
 We integrate mobile applications with existing ERP, CRM, HRMS, Oracle, SAP, databases, APIs, and cloud platforms to provide seamless access to business information. Through secure API and integration layers, mobile applications can retrieve and update enterprise data in near real time, helping eliminate duplicate data entry and ensuring users work with current information.
 
@@ -129,21 +129,3 @@ The RAG system must not invent these details.
 
 In particular, the RAG system should **not automatically state that TechnoSense implements a particular mobile platform, framework, MDM product, or enterprise mobility architecture** unless the company-specific source explicitly confirms it.
 
-
-
-# Document Scope
-
-This document describes **Enterprise Mobility Solutions** as a TechnoSense service using the company-specific information currently available.
-
-Because the publicly indexed Enterprise Mobility material contains limited technical detail, this document deliberately avoids turning generic enterprise-mobility concepts into unsupported TechnoSense claims.
-
-For detailed questions about:
-
-- Mobile application development
-- MAF & MCS Cloud
-- Microsoft 365 Mobile Device Management
-- Cloud services
-- Other specific technologies
-
-
-Additional Enterprise Mobility documentation from TechnoSense can be incorporated into this document if more detailed authoritative company material becomes available.

@@ -1,6 +1,6 @@
 ---
-document_id: cloud_consulting
-title: Cloud Consulting
+document_id: cloud_consulting_services
+title: Cloud Consulting Services
 category: Cloud
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -63,7 +63,6 @@ The service includes:
 TechnoSense provides DevOps consulting as part of its Cloud Consulting portfolio.
 
 DevOps consulting is positioned alongside cloud strategy and cloud deployment/migration services to support organizations in their cloud and technology transformation initiatives.
-
 
 
 ## Cloud Strategy and Planning

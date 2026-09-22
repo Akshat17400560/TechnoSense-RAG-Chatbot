@@ -1,11 +1,11 @@
 ---
-document_id: network_security_compliances
-title: Network Security Compliances
+document_id: network_security_compliances_services
+title: Network Security Compliances Services
 category: Infrastructure
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
-# Network Security & Compliances
+# Network Security & Compliances Services
 
 ## Overview
 
@@ -76,22 +76,6 @@ TechnoSense's Network Security & Compliance services are intended to help organi
 - Establish security controls
 - Reduce security risks
 
-
-## Related Infrastructure Services
-
-### Infrastructure Management
-
-The parent infrastructure service covering infrastructure administration, monitoring, roadmap consulting, migrations, and security.
-
-
-### IT & Infrastructure Roadmap Consulting
-
-Planning and assessment services that can help organizations establish their infrastructure direction before implementation.
-
-
-### Setup & Platform Migrations
-
-Infrastructure setup and migration services that can include transitions to cloud environments.
 
 ## Related Security Services
 

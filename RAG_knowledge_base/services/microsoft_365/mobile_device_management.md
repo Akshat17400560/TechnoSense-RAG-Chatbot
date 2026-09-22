@@ -1,6 +1,6 @@
 ---
-document_id: mobile_device_management
-title: Mobile Device Management
+document_id: mobile_device_management_services
+title: Mobile Device Management Services
 category: Microsoft_365
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -125,14 +125,3 @@ In particular, because TechnoSense mentions Microsoft Intune, the RAG system sho
 
 Only the capabilities supported by TechnoSense's own published information should be treated as confirmed.
 
-
-
-# Document Scope
-
-This document describes TechnoSense's **Mobile Devices Management** offering using the company's published Microsoft 365 and security information.
-
-It should be used for company-specific questions concerning mobile devices, endpoint management, Intune policies, device compliance, encryption, and remote wipe.
-
-The document intentionally does not expand the service into generic Microsoft Intune functionality that TechnoSense has not explicitly documented.
-
-Specific operating-system support, enrollment procedures, policy configurations, licensing requirements, architectures, SLAs, pricing, and implementation procedures should only be added when supported by authoritative TechnoSense documentation.

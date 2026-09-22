@@ -1,6 +1,6 @@
 ---
-document_id: it_infra_roadmap_consulting
-title: IT Infrastructure Roadmap Consulting
+document_id: it_infra_roadmap_consulting_service
+title: IT Infrastructure Roadmap Consulting Services
 category: Infrastructure
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -56,23 +56,7 @@ A structured IT and infrastructure roadmap can help organizations:
 - Prepare for future infrastructure requirements
 - Reduce uncertainty during implementation
 
-## Related Services
 
-### Infrastructure Management
-
-The parent infrastructure service covering network and server administration, storage management, device monitoring, mission-critical application support, roadmap consulting, migrations, and network security.
-
-### Setup & Platform Migrations
-
-Infrastructure setup and platform migration services that can follow roadmap and solution planning.
-
-### Network Security & Compliances
-
-Security and compliance services covering networks, servers, devices, applications, and data.
-
-### Cloud Consulting
-
-TechnoSense also provides cloud consulting services covering cloud adoption strategy, implementation and migration, and DevOps solutions.
 
 
 
