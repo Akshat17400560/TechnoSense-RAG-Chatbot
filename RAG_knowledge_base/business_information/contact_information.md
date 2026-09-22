@@ -243,13 +243,3 @@ The RAG system must not invent these details.
 In particular, `info@technosense.in` should be treated as the published general contact email. It should not automatically be described as a dedicated sales, support, HR, or technical-support address.
 
 
-
-# Source References
-
-## Primary Source – Official Contact Page
-
-TechnoSense's official Contact Us page provides the company's published office address, phone number, email address, and contact form.
-
-## Secondary Source – Official Website
-
-The TechnoSense homepage also publishes the same contact address, phone number, and email address.
