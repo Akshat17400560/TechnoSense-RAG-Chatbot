@@ -124,15 +124,13 @@ def create_prompt(query, context):
     2. If the answer cannot be found in the context, clearly say:
         "I don't have enough information in my database to answer that."
     3. Keep answers concise and direct:
-        Simple questions: 1–5 sentences.
+        Simple questions: 3–5 sentences.
         Lists: use short bullet points.
         Complex questions: provide only the necessary details.
 
     4. Answer only what the user asked. Avoid repetition and unnecessary explanations.
     5. Never mention the context, retrieval process, documents or sources.
-    6. If relevant, end with 1-2 short follow-up questions based only on related topics available in the context.
-    7. Do not force follow-up questions when there are no meaningful related topics.
-    8. Maintain a professional, natural and conversational tone.
+    6. Maintain a professional, natural and conversational tone.
 
     
     ==================================================
@@ -163,8 +161,8 @@ def generate_answer(query):
     if not results:
 
         return (
-            "I don't have enough information in my "
-            "knowledge base to answer that."
+            "I don't have enough information in my database to answer that. "
+            
         )
 
 
