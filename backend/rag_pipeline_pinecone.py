@@ -13,7 +13,7 @@ REGION_NAME = "us-east-1"
 
 EMBEDDING_MODEL = "amazon.titan-embed-text-v2:0"
 
-LLM_MODEL = "amazon.nova-lite-v1:0"
+LLM_MODEL = "amazon.nova-micro-v1:0"
 
 TOP_K = 5
 
