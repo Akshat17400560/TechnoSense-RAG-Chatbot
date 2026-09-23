@@ -15,7 +15,7 @@ EMBEDDING_MODEL = "amazon.titan-embed-text-v2:0"
 
 LLM_MODEL = "amazon.nova-micro-v1:0"
 
-TOP_K = 5
+TOP_K = 8
 
 
 # 2. INITIALIZE EMBEDDINGS
