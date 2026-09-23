@@ -27,7 +27,6 @@ The official contact page publishes this number as the company's contact phone n
 The official website provides this email address for contacting TechnoSense.
 
 
-
 # Contact Information Summary
 
 | Contact Type | Information |
@@ -36,7 +35,6 @@ The official website provides this email address for contacting TechnoSense.
 | Phone | +91-9911191139 |
 | Email | info@technosense.in |
 | Website | technosense.in |
-
 
 
 # Contact Us
@@ -52,8 +50,6 @@ The contact form requests:
 - Message
 
 The form is intended to allow prospective customers or other visitors to communicate their requirements to TechnoSense.
-
-
 
 # Types of Enquiries
 
@@ -74,8 +70,6 @@ Potential enquiry areas include TechnoSense's published service categories such 
 
 The appropriate service-specific documentation should be used when answering detailed questions about any particular service.
 
-
-
 # Office Location
 
 TechnoSense's published office address is in **Sector 132, Noida**.
@@ -90,7 +84,6 @@ Noida
 ```
 
 The company's official website and its contact page use this address in their contact information.
-
 
 
 # Contact Flow
@@ -112,7 +105,6 @@ TechnoSense Contact Team
 ```
 
 This represents the information collected by the published contact form and should not be interpreted as a documented internal lead-processing workflow.
-
 
 
 # Relationship With Services
@@ -158,8 +150,6 @@ Microsoft 365
 
 The contact page serves as a general entry point rather than providing separate contact details for each service.
 
-
-
 # RAG Knowledge Representation
 
 ## Contact Identity
@@ -194,8 +184,6 @@ Phone
 Office Address
 ```
 
-
-
 # Supported RAG Queries
 
 This document should enable the RAG system to answer questions such as:
@@ -214,7 +202,6 @@ This document should enable the RAG system to answer questions such as:
 - What phone number can I use to contact TechnoSense?
 - How do I contact TechnoSense about an IT service?
 - How can I submit my requirements to TechnoSense?
-
 
 
 # Important Answer Boundaries

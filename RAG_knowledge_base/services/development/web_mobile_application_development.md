@@ -55,7 +55,6 @@ We provide complete full-stack development, covering frontend interfaces, backen
 
 We provide ongoing application support, troubleshooting, performance optimization, security updates, feature enhancements, and infrastructure scaling. Our maintenance services help keep applications secure, reliable, available, and capable of supporting changing business requirements.
 
-
 ## Web and Mobile Applications with Database Services
 
 Many business applications depend on databases for storing and managing application data.
@@ -109,31 +108,6 @@ Retrieve this document for questions involving:
 - Application deployment
 - Application scaling
 
-
-### Important Retrieval Boundaries
-
-Do not infer specific:
-
-- Programming languages
-- Web frameworks
-- Mobile frameworks
-- Mobile operating systems
-- Application architectures
-- APIs
-- Databases
-- Cloud platforms
-- Hosting platforms
-- CI/CD tools
-- Source-control systems
-- Development methodologies
-- Security certifications
-- Performance guarantees
-
-unless explicitly documented in TechnoSense source material.
-
-Do not assume that every web or mobile development project includes cloud deployment, database development, migration, maintenance, or support.
-
-These capabilities may be provided as part of broader engagements but should only be stated for a specific project when supported by the relevant documentation.
 
 
 

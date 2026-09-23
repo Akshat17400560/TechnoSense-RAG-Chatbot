@@ -50,8 +50,6 @@ The Version Upgrades service is relevant when an organization:
 - Needs database lifecycle support.
 - Wants to combine database upgrade activities with broader database management services.
 
-
-
 ### Supported Queries
 
 This document should enable the RAG system to answer questions such as:
@@ -65,24 +63,5 @@ This document should enable the RAG system to answer questions such as:
 - What other database services are related to Version Upgrades?
 - Can database upgrades be followed by managed database services?
 
-### Important Answer Boundary
-
-The source material confirms that **Version Upgrades is a TechnoSense Database Management offering**.
-
-This document should **not** infer or claim:
-
-- Specific supported Oracle versions
-- Upgrade paths
-- Upgrade tools
-- Migration utilities
-- Downtime guarantees
-- Testing procedures
-- Upgrade timelines
-- Pricing
-- Service-level agreements
-- Specific operating systems or infrastructure platforms
-
-unless these details are explicitly documented by TechnoSense.
-Generic Oracle Database upgrade practices must not be represented as confirmed TechnoSense capabilities.
 
 

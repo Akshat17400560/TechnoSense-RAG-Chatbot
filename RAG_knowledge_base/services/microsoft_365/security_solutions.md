@@ -22,26 +22,21 @@ TechnoSense positions these capabilities as mechanisms for helping organizations
 
 We strengthen user identities and access to organizational resources using Multi-Factor Authentication (MFA), Conditional Access, identity protection, and role-based access controls. We configure policies based on users, devices, applications, locations, and risk levels to help prevent unauthorized access and protect accounts from credential theft and other identity-based threats.
 
-
 ## Email Security And Threat Protection
 
 We secure organizational email environments against phishing, spam, malware, malicious links, and harmful attachments using Microsoft 365 security capabilities, including Microsoft Defender for Office 365. We configure email protection policies, threat detection, anti-phishing controls, safe links, safe attachments, and other security features to reduce email-based attacks and protect business communications.
-
 
 ## Data Loss Prevention (DLP)
 
 We implement Data Loss Prevention (DLP) policies to identify and protect sensitive information such as financial data, personal information, confidential documents, and business-critical content. Policies can help prevent unauthorized sharing, copying, emailing, or external access to sensitive data while providing appropriate controls and alerts for potential data exposure.
 
-
 ## Device And Endpoint Security
 
 We secure organizational endpoints using Microsoft Intune and Microsoft Defender capabilities, applying encryption, compliance policies, endpoint security configurations, application controls, and access restrictions. We help ensure that only appropriately secured and compliant devices can access corporate resources, while providing administrators with centralized control over managed endpoints.
 
-
 ## Information Protection And Encryption
 
 We help organizations classify and protect sensitive information using Microsoft Purview Information Protection capabilities such as sensitivity labels, encryption, and access controls. These controls can be applied to documents, emails, and other business content to help ensure that sensitive information remains protected even when it is shared or accessed outside the organization's primary environment.
-
 
 ## Security Monitoring And Reporting
 
@@ -114,49 +109,3 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense provide security reporting?
 - What areas does TechnoSense cover with Microsoft 365 security?
 
-
-# Important Answer Boundaries
-
-The following capabilities are explicitly supported by TechnoSense's published Microsoft 365 security information:
-
-- Multi-Factor Authentication
-- Conditional Access
-- Secure login controls
-- Identity protection
-- Anti-phishing protection
-- Anti-spam protection
-- Malware filtering
-- Microsoft Defender for Office 365
-- Data Loss Prevention
-- Encryption
-- Sensitivity labels
-- Rights management
-- Device and endpoint security
-- Intune policies
-- Device compliance rules
-- Remote wipe
-- Security monitoring
-- Security reporting
-
-The published material does **not** specify:
-
-- Specific Microsoft 365 security license SKUs
-- Security service pricing
-- Specific Conditional Access policies
-- Specific MFA methods
-- Specific Defender configurations
-- Specific DLP policies
-- Specific encryption algorithms
-- Specific Intune policy templates
-- Supported device operating systems
-- Detailed device enrollment procedures
-- SIEM integrations
-- SOC services
-- Incident response SLAs
-- Specific compliance certifications
-- Security assessment timelines
-- Pricing or contractual terms
-
-The RAG system must not infer these details.
-
-In particular, the existence of a Microsoft security feature should **not** automatically be interpreted as proof that TechnoSense implements every possible configuration or feature of that Microsoft product.

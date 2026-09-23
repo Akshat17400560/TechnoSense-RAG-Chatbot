@@ -74,13 +74,6 @@ This document should enable the RAG system to answer questions such as:
 - What other services are related to Server Setup & Migration?
 - Can TechnoSense support database infrastructure transitions?
 
-### Important Answer Boundary
-
-The source material confirms that **Server Setup & Migration is a TechnoSense Database Management offering**.
-
-This document should **not** infer or claim specific migration technologies, tools, methodologies, source-to-target combinations, operating systems, cloud platforms, database versions, migration downtime, data-transfer mechanisms, rollback procedures, implementation timelines, pricing, or SLAs unless those details are explicitly documented by TechnoSense.
-
-Generic database migration practices should not be represented as specific TechnoSense capabilities.
 
 
 

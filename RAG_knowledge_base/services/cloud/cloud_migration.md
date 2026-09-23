@@ -15,19 +15,6 @@ The company provides customized cloud solutions based on organizational requirem
 
 Its implementation and migration services cover the transition from planning and solution design through deployment, data conversion, testing, documentation, training, rollout, and post-migration support.
 
-## Purpose
-
-The purpose of the Cloud Implementation & Migration service is to help organizations move from cloud strategy and planning into practical implementation.
-
-The service supports organizations that need to:
-
-- Implement new cloud solutions
-- Migrate existing on-premises solutions to cloud environments
-- Deploy scalable cloud environments
-- Convert and test data during migration
-- Prepare users and operational teams
-- Document the resulting environment
-- Receive support after migration
 
 ## Customized Cloud Solutions
 
@@ -229,23 +216,3 @@ Retrieve this document for questions involving:
 - Cloud implementation support
 - Cloud platform migration
 
-
-### Important Retrieval Boundaries
-
-Do not infer:
-
-- AWS, Azure, Google Cloud, Oracle Cloud, or another specific cloud provider
-- Specific cloud services
-- Specific migration tools
-- Specific migration frameworks
-- Container or Kubernetes technologies
-- CI/CD tools
-- Specific database migration tools
-- Specific data migration methodologies
-- Guaranteed migration timelines
-- Guaranteed zero downtime
-- Guaranteed cost savings
-
-unless those capabilities are explicitly documented elsewhere in the TechnoSense knowledge base.
-
-The public service description establishes that TechnoSense supports cloud implementation and on-premises-to-cloud migration, but it does not provide enough information to determine the exact technical architecture or tools used for every migration.

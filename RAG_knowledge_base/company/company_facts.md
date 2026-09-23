@@ -46,53 +46,6 @@ The TechnoSense website identifies the following major capability areas:
 - DevOps
 - IT resource placement
 
-## Primary Technology Areas
-
-TechnoSense identifies the following technology areas as part of its offerings:
-
-### Oracle
-
-TechnoSense provides Oracle-related solutions, including:
-
-- Oracle database technologies
-- Oracle APEX
-- Oracle ADF
-- Oracle application development solutions
-
-### Cloud and DevOps
-
-TechnoSense provides cloud and DevOps solutions covering areas such as:
-
-- Cloud adoption
-- Cloud implementation
-- Cloud migration
-- DevOps consulting
-- Cloud infrastructure
-- Cloud-related transformation
-
-### Microsoft 365
-
-TechnoSense provides Microsoft 365 services covering:
-
-- Licensing
-- Setup
-- Migration
-- Management
-- Security
-- Mobile device management
-
-### IT Infrastructure
-
-TechnoSense provides IT infrastructure services covering:
-
-- Infrastructure consulting
-- Infrastructure management
-- Infrastructure modernization
-- Platform migrations
-- Network security
-- Infrastructure roadmap planning
-
-
 
 ## Technology Alliances
 
@@ -119,7 +72,6 @@ The TechnoSense homepage displays the following organizations in its client sect
 
 These organizations are displayed as client logos on the company's website.
 
-
 ## Service Delivery Coverage
 
 The TechnoSense website describes services covering the following stages:
@@ -128,7 +80,6 @@ The TechnoSense website describes services covering the following stages:
 2. Implementation
 3. Maintenance
 4. Support
-
 
 ## Company Positioning
 

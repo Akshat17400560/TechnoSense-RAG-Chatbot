@@ -20,26 +20,21 @@ The published information does not provide a separate detailed technical methodo
 
 We configure and enroll Windows, macOS, iOS/iPadOS, and Android devices into Microsoft Intune, enabling centralized management of corporate endpoints. We apply the required device configurations, security policies, applications, certificates, and organizational settings to ensure devices are properly configured and ready for secure business use.
 
-
 ## Security And Compliance Policies
 
 We implement device and user security policies to protect corporate resources and sensitive information. This can include password and authentication requirements, device encryption, firewall and security settings, compliance policies, Conditional Access, and endpoint security configurations. Devices that do not meet defined security requirements can be restricted from accessing corporate resources.
-
 
 ## App Deployment And Management
 
 We centrally deploy and manage business applications through Intune, reducing the need for manual installation and configuration. Applications can be assigned to specific users or device groups, updated remotely, and removed when no longer required. We also help manage application configuration and access policies to ensure users have the right tools for their roles.
 
-
 ## Remote Lock And Wipe Controls
 
 We help protect organizational data if a device is lost, stolen, or compromised by using Intune's remote management capabilities. Administrators can remotely lock, retire, or wipe supported devices and remove corporate data when appropriate. This helps reduce the risk of unauthorized access while allowing organizations to respond quickly to device security incidents.
 
-
 ## BYOD(Bring your own device) support
 
 We enable employees to securely access corporate resources from their personal smartphones, tablets, and other supported devices while maintaining separation between personal and business information. We can implement application protection, access controls, Conditional Access, and selective data removal to protect corporate information without unnecessarily affecting personal data.
-
 
 ## Monitoring And Reporting
 
@@ -86,42 +81,4 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense support device compliance?
 - Does TechnoSense provide remote data removal from managed devices?
 
-
-# Important Answer Boundaries
-
-The following capabilities are explicitly supported by TechnoSense's published Microsoft 365 security and service information:
-
-- Mobile device management
-- Device and endpoint security
-- Laptop security
-- Intune policies
-- Device compliance rules
-- Encryption
-- Remote wipe
-
-The published material does **not** specify:
-
-- Supported mobile operating systems
-- Supported laptop operating systems
-- Specific Intune license requirements
-- Specific Intune policy templates
-- Device enrollment procedures
-- BYOD policies
-- Device limits
-- Application management details
-- Mobile application management
-- Specific compliance policies
-- Specific encryption algorithms
-- Key-management architecture
-- Remote-wipe conditions
-- Device monitoring frequency
-- Device-management SLAs
-- Pricing
-- Support contracts
-
-The RAG system must not infer these details.
-
-In particular, because TechnoSense mentions Microsoft Intune, the RAG system should **not automatically claim that TechnoSense provides every capability available within Microsoft Intune**.
-
-Only the capabilities supported by TechnoSense's own published information should be treated as confirmed.
 

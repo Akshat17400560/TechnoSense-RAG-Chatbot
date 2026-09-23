@@ -161,46 +161,6 @@ Development services, meanwhile, focus on building and enhancing applications.
 The two service categories can therefore complement one another within broader digital transformation initiatives.
 
 
-## Development and Infrastructure
-
-Application development also depends on underlying IT infrastructure.
-
-TechnoSense's Infrastructure Management portfolio includes:
-
-- Network administration
-- Server administration
-- Storage management
-- Device monitoring
-- Infrastructure roadmap consulting
-- Platform migrations
-- Network security and compliance
-
-
-## Development Lifecycle
-
-A high-level application development lifecycle can be represented as:
-
-```
-Business Requirements
-        ↓
-Requirements Analysis
-        ↓
-Solution Design
-        ↓
-Application Development
-        ↓
-Testing
-        ↓
-Deployment
-        ↓
-Training & Rollout
-        ↓
-Maintenance & Enhancements
-        ↓
-Application Support
-```
-
-The exact lifecycle, phases, deliverables, and responsibilities depend on the individual project.
 
 ## Business Benefits
 
@@ -217,12 +177,6 @@ TechnoSense's Development Services are intended to help organizations:
 - Maintain applications after implementation
 - Obtain ongoing application support
 
-
-### Important Retrieval Boundaries
-
-Do not infer specific programming languages, frameworks, databases, APIs, architectures, development methodologies, source-control systems, CI/CD platforms, mobile operating systems, or application hosting platforms unless explicitly documented in the relevant TechnoSense source material.
-
-Do not assume that every development project includes all lifecycle stages described in this document. The implementation and support scope depends on the individual engagement.
 
 
 

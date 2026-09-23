@@ -7,14 +7,6 @@ company: TechnoSense NextGen Solutions Pvt Limited
 
 # Oracle APEX And ADF
 
-## Overview
-
-TechnoSense NextGen Solutions provides Oracle APEX development services for organizations that require business applications built using Oracle Application Express.
-
-Oracle APEX is a low-code development platform within the Oracle ecosystem that enables developers to build and deploy data-driven web applications.
-
-TechnoSense includes Oracle APEX within its Development Services portfolio alongside Web & Mobile Application Development and MAF & MCS Cloud.
-
 ## Oracle APEX
 
 Oracle Application Express (APEX) is a low-code development platform for rapidly building secure, responsive, and database-driven business applications. Because APEX runs directly on Oracle Database, organizations can develop applications efficiently while leveraging existing database structures, business logic, and security capabilities.
@@ -102,27 +94,6 @@ Retrieve this document for questions involving:
 - Oracle ADF
 - Low-code Oracle application development
 
-
-
-### Important Retrieval Boundaries
-
-Do not infer specific:
-
-- Oracle APEX versions
-- Oracle Database versions
-- APEX plug-ins
-- Programming frameworks
-- Hosting environments
-- Oracle Cloud services
-- Development methodologies
-- Application architectures
-- Integration platforms
-- Security certifications
-- Performance guarantees
-
-unless explicitly documented by TechnoSense.
-
-Do not assume that every Oracle APEX project includes database migration, cloud deployment, application modernization, or ongoing support. These activities depend on the scope of the individual engagement.
 
 
 

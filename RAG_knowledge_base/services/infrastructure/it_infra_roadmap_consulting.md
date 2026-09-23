@@ -7,14 +7,6 @@ company: TechnoSense NextGen Solutions Pvt Limited
 
 # IT & Infrastructure Roadmap Consulting Services
 
-## Overview
-
-TechnoSense NextGen Solutions provides IT and Infrastructure Roadmap Consulting as part of its broader infrastructure management services.
-
-The consulting service helps organizations plan their IT infrastructure direction before implementation. TechnoSense works with organizations to understand their existing environment, assess infrastructure requirements, identify gaps, and design an appropriate roadmap aligned with their business and technology objectives.
-
-The roadmap approach is part of TechnoSense's broader lifecycle, which spans pre-implementation assessment, solution design, implementation, maintenance, and ongoing support.
-
 
 ## Network And Server Management
 
@@ -33,7 +25,6 @@ We implement and manage multiple layers of security to protect IT infrastructure
 ## Incident And Problem Management
 
 We provide structured incident and problem management to quickly restore IT services and minimize business disruption. Our team handles incidents such as server failures, network outages, application issues, database problems, performance degradation, connectivity issues, and security events. We perform troubleshooting, incident classification, prioritization, escalation, and resolution while maintaining proper documentation. For recurring or critical issues, we conduct Root Cause Analysis (RCA) to identify the underlying cause and implement permanent corrective actions. We also recommend preventive measures, monitoring improvements, configuration changes, and process enhancements to reduce the likelihood of recurrence.
-
 
 ## Alignment with Business Objectives
 
