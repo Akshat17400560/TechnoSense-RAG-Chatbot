@@ -1,6 +1,6 @@
 ---
-document_id: database_version_upgrades_service
-title: Database Version Upgrades Service
+document_id: database_version_upgrades_services
+title: Database Version Upgrades Services
 category: Database
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -51,24 +51,6 @@ The Version Upgrades service is relevant when an organization:
 - Wants to combine database upgrade activities with broader database management services.
 
 
-# Related TechnoSense Services
-
-### Oracle Database Installation
-
-Supports the establishment of Oracle database environments.
-
-### Server Setup & Migration
-
-Supports database server setup and migration activities when infrastructure or database environments need to be moved.
-
-### Managed Services
-
-Provides ongoing operational support after database deployment or upgrade.
-
-### Infrastructure Management
-
-Provides broader infrastructure management capabilities that may support the environment in which database systems operate.
-
 
 ### Supported Queries
 
@@ -103,12 +85,4 @@ This document should **not** infer or claim:
 unless these details are explicitly documented by TechnoSense.
 Generic Oracle Database upgrade practices must not be represented as confirmed TechnoSense capabilities.
 
-
-### Related Source – TechnoSense Managed Services
-
-TechnoSense describes Managed Database Services covering ongoing database monitoring, performance optimization, backup management, security management, patch and update management, disaster recovery support, health checks, and reporting.
-
-These capabilities represent ongoing database operations and should not automatically be interpreted as components of the Version Upgrades service.
-
-Source: TechnoSense NextGen Solutions – Managed Services
 

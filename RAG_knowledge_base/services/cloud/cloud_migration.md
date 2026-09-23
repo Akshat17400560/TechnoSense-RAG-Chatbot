@@ -5,7 +5,7 @@ category: Cloud
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
-# Cloud Implementation & Migration
+# Cloud Implementation & Migration Service
 
 ## Overview
 
@@ -191,49 +191,6 @@ This indicates that minimizing disruption is an important consideration during i
 
 However, **"close to zero downtime" should not be interpreted as a guaranteed zero-downtime SLA**. Actual downtime depends on the specific migration architecture, workloads, dependencies, implementation approach, and engagement requirements.
 
-
-## Relationship with Cloud Adoption Strategy
-
-Cloud Adoption Strategy represents the planning and strategic stage of the cloud transformation journey.
-
-Cloud Implementation & Migration represents the execution stage.
-
-The two services therefore work together:
-
-**Cloud Adoption Strategy**
-
-- Cloud strategy
-- Cloud roadmap
-- Existing infrastructure considerations
-- Future expansion
-- Solution selection
-- Investment and ROI considerations
-
-
-**Cloud Implementation & Migration**
-
-- Solution design
-- Cloud setup
-- Deployment
-- Migration
-- Data conversion
-- Testing
-- Documentation
-- Training
-- Rollout
-- Support
-
-
-## Relationship with Infrastructure Services
-
-Cloud implementation and migration are also connected to TechnoSense's Infrastructure Management services.
-
-Infrastructure Management includes:
-
-- Infrastructure roadmap consulting
-- Infrastructure setup
-- Platform migrations
-- Network security and compliance
 
 
 ## Business Benefits

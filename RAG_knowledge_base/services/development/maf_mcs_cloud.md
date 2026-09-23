@@ -1,6 +1,6 @@
 ---
-document_id: maf_mcs_cloud_service
-title: MAF MCS Cloud Service
+document_id: maf_mcs_cloud_services
+title: MAF MCS Cloud Services
 category: Development
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -68,14 +68,6 @@ Focused on mobile application development and cloud-based mobile backend capabil
 
 Both belong to TechnoSense's Development Services portfolio but address different application requirements.
 
-
-## Relationship with Database Services
-
-Mobile and enterprise applications typically interact with data stored in backend systems.
-
-TechnoSense separately provides database-related services.
-
-Database services can therefore complement MAF & MCS Cloud application development where database implementation, administration, migration, or support is required.
 
 
 ## Business Benefits

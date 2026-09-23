@@ -5,7 +5,7 @@ category: business_information
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
 
-## Overview
+# Overview
 
 TechnoSense NextGen Solutions collaborates with technology leaders as part of its approach to delivering secure, scalable, and enterprise-grade IT solutions.
 
@@ -41,11 +41,7 @@ In addition, TechnoSense offers DevOps services to support the automation and op
 Together, TechnoSense’s AWS partnership and cloud-focused service portfolio demonstrate its involvement in helping organizations plan, adopt, migrate to, implement, and operate cloud environments as part of their broader digital transformation initiatives.
 
 
-
-
-# Microsoft
-
-Microsoft is also displayed in TechnoSense's **Trusted alliances** section.
+## Microsoft
 
 Microsoft is listed by TechnoSense under the Trusted Alliances section of its official website. This establishes Microsoft as a publicly represented technology alliance associated with TechnoSense.
 
@@ -61,9 +57,9 @@ Beyond these specific offerings, TechnoSense describes its Microsoft 365 capabil
 
 
 
-# Redington
+## Redington
 
-**Redington** is explicitly displayed in TechnoSense's Trusted Alliances section.
+Redington is explicitly displayed in TechnoSense's Trusted Alliances section.
 
 Redington is explicitly displayed in the Trusted Alliances section of TechnoSense’s official website. Through this listing, TechnoSense publicly identifies Redington as one of the organizations associated with its broader network of trusted technology alliances and collaborations.The presence of Redington in the Trusted Alliances section establishes that TechnoSense publicly represents an organizational relationship with Redington.
 
@@ -72,9 +68,9 @@ Redington Limited is a technology-focused company headquartered in Chennai, Indi
 TechnoSense explicitly displays Redington in the Trusted Alliances section of its official website. Through this listing, TechnoSense publicly identifies Redington as one of the organizations associated with its network of trusted alliances and collaborations.
 
 
-# Fortinet
+## Fortinet
 
-**Fortinet** is also displayed in TechnoSense's Trusted Alliances section.
+Fortinet is also displayed in TechnoSense's Trusted Alliances section.
 
 Fortinet is a global cybersecurity and networking technology company founded in 2000 and headquartered in Sunnyvale, California. The company develops cybersecurity solutions designed to protect networks, applications, devices, and data. Its portfolio includes more than 50 enterprise-grade products spanning areas such as secure networking, network security, security operations, cloud security, endpoint protection, and unified SASE.
 
@@ -87,9 +83,9 @@ TechnoSense explicitly displays Fortinet in the Trusted Alliances section of its
 The Fortinet relationship is particularly relevant to TechnoSense's broader infrastructure and network-security service portfolio. TechnoSense separately offers Network Security & Compliances as part of its infrastructure services, indicating that network security is an established area within the company's service portfolio.
 
 
-# Nutanix
+## Nutanix
 
-**Nutanix** is also displayed in TechnoSense's Trusted Alliances section.
+Nutanix is also displayed in TechnoSense's Trusted Alliances section.
 
 Nutanix is a global enterprise technology company specializing in hybrid multicloud computing, cloud software, and hyperconverged infrastructure (HCI). The company pioneered the HCI approach, which brings together traditionally separate infrastructure components such as compute, storage, and networking into a unified, software-defined platform.
 
@@ -115,7 +111,6 @@ The relationship is therefore relevant from a technology-portfolio perspective: 
 | Nutanix | Trusted Alliance | Hybrid Cloud Provider |
 
 The relationship terminology differs slightly in the published material: AWS is specifically shown as **“AWS Partner”**, while Microsoft, Redington, Fortinet and Nutanix appear as organizations in the **Trusted alliances** section.
-
 
 
 # Supported RAG Queries
@@ -144,7 +139,7 @@ This document should enable the RAG system to answer questions such as:
 
 The following relationships are explicitly supported by the TechnoSense website:
 
-- **AWS — AWS Partner**
+- **AWS — Trusted Alliance**
 - **Microsoft — Trusted Alliance**
 - **Redington — Trusted Alliance**
 - **Fortinet — Trusted Alliance**
@@ -175,18 +170,5 @@ For example, TechnoSense demonstrates significant Oracle technology expertise th
 
 Therefore, Oracle should be represented as a **technology/service area**, not automatically as a **confirmed technology partner**, unless TechnoSense publishes an explicit Oracle partnership elsewhere.
 
-# Source References
-
-## Primary Source – TechnoSense Homepage
-
-The official TechnoSense homepage contains the **Trusted alliances** section and displays:
-
-- AWS Partner
-- Microsoft
-- Redington
-- Fortinet
-- Nutanix
-
-It describes these organizations as technology leaders with whom TechnoSense collaborates to deliver secure, scalable, enterprise-grade outcomes.
 
 

@@ -1,6 +1,6 @@
 ---
-document_id: oracle_database_installation_service
-title: Oracle Database Installation Service
+document_id: oracle_database_installation_services
+title: Oracle Database Installation Services
 category: Database
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -47,33 +47,3 @@ We strengthen Oracle database security through user and role management, privile
 We provide ongoing Oracle Database administration and managed support to maintain database availability, performance, security, and reliability. Services can include continuous monitoring, database health checks, alert management, backup verification, performance analysis, patch management, troubleshooting, capacity planning, and preventive maintenance. Our proactive approach helps identify potential issues before they significantly impact business operations.
 
 
-
-# Source References
-
-### Primary Source – TechnoSense Official Website
-
-TechnoSense identifies **Oracle Database Installation** as one of its Database Management offerings.
-
-The Database Management category also includes:
-
-- Version Upgrades
-- Server Setup & Migration
-- Managed Services
-
-Source: TechnoSense NextGen Solutions – Official Website
-
-### Related Source – TechnoSense Managed Services
-
-TechnoSense's Managed Services information describes capabilities available for ongoing database operations, including monitoring, performance optimization, backup management, security management, patch and update management, disaster recovery support, and health checks.
-
-These capabilities are related to the post-installation operational lifecycle but should not be interpreted as part of the installation service itself.
-
-Source: TechnoSense NextGen Solutions – Managed Services
-
-### Document Scope
-
-This document describes the **Oracle Database Installation** offering at the service level.
-
-Detailed technical procedures, supported Oracle versions, installation prerequisites, deployment architectures, configuration parameters, migration methodologies, implementation timelines, pricing, and SLA information are intentionally excluded unless explicitly published by TechnoSense.
-
-This boundary is maintained to ensure that RAG responses remain **source-grounded and company-specific** rather than relying on generic Oracle Database knowledge.

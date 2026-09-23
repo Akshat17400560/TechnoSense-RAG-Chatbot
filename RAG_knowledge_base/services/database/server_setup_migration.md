@@ -1,6 +1,6 @@
 ---
-document_id: server_setup_migration_service
-title: Server Setup Migration Service
+document_id: server_setup_migration_services
+title: Server Setup Migration Services
 category: Database
 company: TechnoSense NextGen Solutions Pvt Limited
 ---
@@ -59,28 +59,6 @@ Server Setup & Migration is relevant when an organization:
 - Needs database infrastructure transition support.
 - Requires database migration as part of a broader technology initiative.
 
-# Related TechnoSense Services
-
-### Oracle Database Installation
-
-Used to establish the Oracle database environment after the required server environment has been prepared.
-
-### Version Upgrades
-
-Used when an existing database needs to be upgraded to a newer version.
-
-### Managed Services
-
-Used for ongoing database monitoring, maintenance, optimization, security, backup, patching, disaster recovery, and health management.
-
-### Infrastructure Management
-
-Provides broader infrastructure-related services that can complement database server setup and migration activities.
-
-### Cloud Services
-
-Cloud adoption, implementation, and migration services may be relevant when database environments are transitioned as part of broader cloud initiatives.
-
 
 ### Supported Queries
 
@@ -104,21 +82,5 @@ This document should **not** infer or claim specific migration technologies, too
 
 Generic database migration practices should not be represented as specific TechnoSense capabilities.
 
-## Source References
 
-### Primary Source – TechnoSense Official Website
-
-TechnoSense identifies **Server Setup & Migration** as one of its Database Management offerings alongside:
-
-- Oracle Database Installation
-- Version Upgrades
-- Managed Services
-
-Source: TechnoSense NextGen Solutions – Official Website
-
-### Related Source – TechnoSense Cloud Services
-
-TechnoSense provides broader cloud consulting, implementation, and migration services. These services may be relevant when database migration is part of a larger infrastructure or cloud transition, but cloud-specific migration capabilities should not automatically be attributed to the database migration offering.
-
-Source: TechnoSense NextGen Solutions – Cloud Services
 

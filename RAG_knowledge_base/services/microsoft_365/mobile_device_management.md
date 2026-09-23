@@ -8,7 +8,7 @@ company: TechnoSense NextGen Solutions Pvt Limited
 
 # Mobile Device Management Services
 
-TechnoSense provides **Mobile Devices Management** as one of its Microsoft 365 service offerings.
+TechnoSense provides Mobile Devices Management as one of its Microsoft 365 service offerings.
 
 The service focuses on managing and securing mobile and endpoint devices that access organizational resources. TechnoSense's Microsoft 365 security information specifically references mobile devices, laptops, Intune policies, encryption, compliance rules, and remote wipe capabilities as part of its device and endpoint security capabilities.
 

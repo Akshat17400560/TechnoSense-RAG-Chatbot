@@ -89,7 +89,7 @@ This document should enable the RAG system to answer questions such as:
 - Does TechnoSense support database business continuity?
 - What database management services does TechnoSense offer?
 
-## Important Answer Boundaries
+### Important Answer Boundaries
 
 The following capabilities are explicitly supported by TechnoSense's published Managed Services information:
 
@@ -119,22 +119,6 @@ However, the source does **not** specify:
 
 The RAG system should therefore avoid presenting any of these details as confirmed TechnoSense capabilities unless additional authoritative company documentation is added to the knowledge base.
 
-## Source References
 
-### Primary Source – TechnoSense Managed Services
-
-TechnoSense's official Managed Services page provides the detailed description of its Managed Database Services.
-
-The source explicitly identifies:
-
-- 24×7 Monitoring & Support
-- Performance Optimization
-- Backup Management
-- Security Management
-- Patch & Update Management
-- Disaster Recovery Support
-- Health Checks & Reporting
-
-It also states that the service is intended to keep database environments secure, reliable, optimized, and available while reducing day-to-day operational challenges for customers' IT teams.
 
 

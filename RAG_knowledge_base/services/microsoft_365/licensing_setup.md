@@ -7,7 +7,7 @@ company: TechnoSense NextGen Solutions Pvt Limited
 
 # Licensing Setup Services
 
-TechnoSense provides **O365 Licensing & Setup** services to help organizations select appropriate Microsoft 365 licenses, configure their Office 365 environment, migrate existing data, deploy applications, and onboard users.
+TechnoSense provides O365 Licensing & Setup services to help organizations select appropriate Microsoft 365 licenses, configure their Office 365 environment, migrate existing data, deploy applications, and onboard users.
 
 The service covers multiple stages of Microsoft 365 adoption, beginning with license selection and tenant setup and extending to account configuration, migration, security and compliance configuration, application deployment, and user training.
 

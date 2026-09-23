@@ -1,6 +1,6 @@
 ---
-document_id: web_mobile_application_development_service
-title: Web Mobile Application Development Service
+document_id: web_mobile_application_development_services
+title: Web Mobile Application Development Services
 category: Development
 company: TechnoSense NextGen Solutions Pvt Limited
 ---

@@ -218,40 +218,11 @@ TechnoSense's Development Services are intended to help organizations:
 - Obtain ongoing application support
 
 
-
 ### Important Retrieval Boundaries
 
 Do not infer specific programming languages, frameworks, databases, APIs, architectures, development methodologies, source-control systems, CI/CD platforms, mobile operating systems, or application hosting platforms unless explicitly documented in the relevant TechnoSense source material.
 
 Do not assume that every development project includes all lifecycle stages described in this document. The implementation and support scope depends on the individual engagement.
 
-## Related Service Categories
-
-### Cloud Consulting
-
-Cloud strategy, cloud implementation and migration, and DevOps consulting.
 
 
-### Infrastructure Management
-
-Infrastructure administration, roadmap consulting, migrations, monitoring, and security.
-
-
-### Database Services
-
-Database-related services supporting enterprise application environments.
-
-## Source Information
-
-**Primary source:** TechnoSense NextGen Solutions official website
-
-**Source URL:** https://technosense.in/
-
-**Service category:** Development Services
-
-**Primary documented offerings:**
-- Oracle APEX
-- Web & Mobile Application Development
-- MAF & MCS Cloud
-
-**Source scope:** Publicly available information describing TechnoSense application development capabilities and related technologies and platforms.

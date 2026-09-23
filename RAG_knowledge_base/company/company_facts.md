@@ -26,7 +26,7 @@ These figures are company-stated metrics displayed on the TechnoSense website.
 
 ## Project Experience
 
-TechnoSense states that its team has experience working with global organizations and has delivered **multimillion-dollar projects worldwide**.
+TechnoSense states that its team has experience working with global organizations and has delivered multimillion-dollar projects worldwide.
 
 The company describes its team as having experience working for global technology organizations and bringing technical expertise and project-delivery experience to client engagements.
 
@@ -91,6 +91,8 @@ TechnoSense provides IT infrastructure services covering:
 - Platform migrations
 - Network security
 - Infrastructure roadmap planning
+
+
 
 ## Technology Alliances
 
